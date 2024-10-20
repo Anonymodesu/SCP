@@ -1,0 +1,226 @@
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[module css]]
+.experiment {
+    padding: 10px;
+    margin:10px;
+    margin-bottom:20px;
+    margin-top:20px;
+    background-color: #f2f2f2;
+    border: 2px dotted #737373;
+    color: black;
+}
+
+.experiment-table-left td {
+    width:50%; vertical-align:top; border-right: 1px dotted gray;
+}
+.experiment-table-right td {
+    width:50%; vertical-align:top
+}
+
+.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; margin-bottom:20px; margin-top:20px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}
+.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}
+
+.bulletin {background: gray; padding: 1px 15px; border: solid 3px lightgray; margin: 10px; border-radius: 30px 15px;}
+.bulletin-entry {background: white; padding: 1px 15px; border: solid 3px lightgray; margin: 10px; border-radius: 30px 15px;}
+[[/module]]
+
+
+[[include component:image-block | name=https://upload.wikimedia.org/wikipedia/commons/9/9d/A_man_using_a_urinal.jpg | caption=Victim of SCP-XXXX | width=WIDTH-GOES-HERE]]
+
+
+**Item #:** SCP-XXXX
+
+**Object Class:** Euclid
+
+**Special Containment Procedures:** Personnel assigned to SCP-XXXX are to monitor and record manifestations of SCP-XXXX.
+
+Conprocs describe the surveillance of high-traffic public restrooms and Foundation restrooms. Specialised centrifuges are installed in water treatment plants to filter out the SCP from drinking water.
+Methods for neutralisation of the SCP are also explained:
+* SCP is distributed to D-Class with different language backgrounds, and are encouraged to mix when going to the bathroom.
+* SCP is advertised as bottled water for infants
+* "Operation Dehydration" is mentioned, but its details are revealed in addenda.
+
+**Description:** SCP-XXXX is a phenomenon that may occur when multiple individuals enter a male restroom. Affected subjects are compelled to use adjacent toilets, prioritising urinals if present, and engage in pleasant conversation. 
+
+Conversations have a strong tendency to expose personal information, more than what the subjects are normally comfortable revealing. --The existing relationship between the subjects appear to have no bearing on the spoken subject matter.-- Throughout the conversation, subjects would continue to discharge urine. In most recorded cases, the total discharge far exceeds the capacity of a human bladder.
+
+Urinary excretion wanes as the conversation naturally concludes, signalling the end of the manifestation. Interviews with affected subjects afterward suggest that their interpersonal relationship has improved, and that they aren't troubled by their anomalous urinary performance.
+
+SCP-XXXX has only been observed in male restrooms in Roraiman farmland, however, manifestations are otherwise random with no discernible cause. An average of 0.73 manifestations are observed annually.
+
+**Addendum:** 
+
+
+
+Discovery: Overflown septic tank from conversation lasting 7 hours. Researcher Y. Nations, who was vacationing in Brazil, was paged to investigate.
+
+Experiments are interspersed with rejected requests to be transferred out.
+* chemical analysis showing healthier-than-usual urine
+* observed conversation lasting > 2hrs - risk to overwhelm septic tank. Attempt to interrupt conversation fails
+* researcher requests to be temporarily transferred to Site-19 for memetic resistance training. Status: rejected, because of insufficient personnel at site UR-1-NE.
+    * request for more personnel: rejected, because of the lack of severity of SCP-XXXX.
+* researcher requests for another researcher; rejected
+    * researcher requests for a janitor; accepted
+* Shorting stocks after hearing about a conversation allowing insider trading
+* pre-emptively setting up stuff like fire alarms, booby-trapped urinals, and extreme heater
+
+* setting up a microphone to interact with them externally
+* 
+
+* Radio: increase in female workforce in the region
+* This is only affecting men, so at least we've got that going for us.
+* Radio:  First manifestation of SCP-XXXX occurring with female humans. 
+* Fuck. 
+
+In the beginning, Dr. Yuri Nations is the only researcher stationed at a Foundation outpost at some farmland, in the Amazon Rainforest.
+This location is chosen because it's inside the Amazon rainforest, and next to equator for the doldrums, ensuring that the water cycle is a almost a closed loop.
+His only company is a janitor, Bladimir , who eventually ends up in the research team.
+
+
+* Hey, the Ethics Committee came back and rejected your request.
+* Huh? What's an Ethics Committee?
+* I dunno. But they say we can't do something because of quote "insider trading"
+
+Septic tank flooding from urine.
+
+
+Demands accepted, but in light of your insider trading, we are going to void your discretionary benefits like 401k if you fail to contain this
+
+
+* Epidemiology report requested:
+* Disease types ruled out: airborne, waterborne, vectorborne, bloodborne, fomite borne, soil-borne, direct contact, zoonotic, 
+
+
+
+* Only a single (female) junior, Dr. Shijin (时锦) (incontinence) Pi, turns up to the orientation.
+
+* Nations: You just ask a question, and it will tell you everything you need to know.
+* AI: <Long monologue of crap>
+* Pi: I think you need to tune its speech parameters.
+* Pi: I didn't sell my soul to my PhD, just to watch people piss for 3 hours.
+* Nations: Hey, same here. I didn't sell my soul to my PhD, just to watch people piss for 30 years.
+* Pi: ...Who //are// you?
+* NLPEE: HE IS DR. YURI NATIONS. BORN ON 5 SEPTEMBER 1961. COMPLETED PHD IN BIOCHEMISTRY IN 1988. BEGAN BALDING IN 2001. HAD SEXUAL INTERCOURSE WITH 1 MAN 86 TIMES. ENJOYS-
+* Nations: (Shuts off NLPEE). Alright I think I need to tune its speech parameters.
+* Silva: How does it know about our- your sexual history?
+* Nations: Well I set up a camera in the bathroom, you know - just in case.
+* Silva: ...can I have the recording?
+
+* Responsibility without authority.
+* Life is hard", "It is.", "But I'm harder. Wait that came out wrong.
+
+* Do you have an idea of what's common between these events?
+* Yes, nothing. Nothing is common between them.
+
+* What are you working on Yuri?
+* Shit.
+* You mean piss.
+* Yes. No. I need another coffee.
+* Not going so great huh?
+* Do you need to ask? Nothing makes sense.
+* Speaking of which, you need to stop saying that around the juniors. It's bad for morale.
+* Junior. Singular.
+* Yes, and she's doing her best.
+* What's it matter? It's not like anything useful came out of her anyway.
+* You're head researcher. Start acting like one.
+* Well I never asked for this alright? All I wanted was to wile away at Site-XX, then comfortably retire.
+* Some people are born great, some achieve greatness, and some have greatness thrust upon them.
+* Let me guess, I'm the third kind.
+* Yes. In both ways. And potentially a third way, if you're up for it tonight?
+
+
+* Audio logs of a pregnant woman exclaiming that her bladder hasn't become smaller.
+* Speaking of, my flow is especially is strong today.
+* Squeeze that bladder!
+
+"It's not the urinals, Yuri. It's the urine."
+
+
+Yuri justifies more funding after realising that this is due to the water cycle:
+* 15 ml/s * 2.4 men/bathroom *  13min conversations * 2.4 conversations per day = 67.4L water per day
+* 67.4L urine per day * 4 billion men * 365 days = 98.4 trillion litres = 98.4 cubic km of water per year
+
+
+NLPE gets upgraded to NLPE-E (Enhanced) with a human interface that represents a human sitting on a toilet, due to its training data
+
+
+* This feels like my PhD degree? Hitting your head against a brick wall for 6 months, only to get a drop of dopamine to keep you going for the next brick wall.
+
+
+Covid-19 tip-off from a logged conversation. to keep people isolated in their bathrooms.
+Ethics committee on negligence. Countered with worse alternatives - LK-Class scenario, Lifted-Veil
+
+* Every day, he's just doing his best you know? Sometimes his best is good, sometimes it's bad. But on average, it's pretty average.
+* That a lot of words to say nothing.
+* My point is, he's doing all that he can. What more can we expect of him?
+
+
+
+Provides utility as an unreliable interrogation tool, a way for employees to settle employee disputes, and resolves urinary conditions
+Musk and Twitter CEO reported to have had nice conversation in the bathroom.
+
+* Hey, the closest place is L.A.
+* I have a better idea. Why don't we take a trip back to Ground zero?
+* The trio go back to Rorairo and settle in to their old home.
+* Dr. Pi notes how old everything looks in site UR-1-NE.
+* NLPE-E reunites with its old hardware.
+* They party, and Pi leaves to take a leak. In her drunken stupour, she accidentally walks into a restroom with a Brazilian woman, but they dont speak each other's language. Dr. Pi fails to notice.
+* Next morning, they inspect the town and find that its population has dwindled. 
+* Yuri's surveillance systems still works, and reveals that people have been accidentally walking into the public restrooms and becoming severely dehydrated as they speak to each other in 40 degree weather. Fainting and being spontaneously woken up and forced to converse as another person walks in.
+
+Updated containment procs once water can be successfully distinguished: vats holding the anomalous water will be full as of -10 days.
+
+Chemistry experiment to use electrolysis on SCP denied, since it would lead to oxygen poisoning.
+3.34 * 10^25 molecules of water in 1L of water
+5.32 * 10^-23g per molecule of O2
+150 trillion litres of water per year
+3.34 * 10^25 * 5.32 * 10^-23 * 1.5 * 10^14 = 2.7 * 10^14kg of oxygen a year
+Total mass of oxygen in atmosphere = 0.21 x 5.15 x 10^18 kg = 1.08 x 10^18 kg
+
+Physics experiment using nuclear fusion to fuse the water to heavier elements. Too expensive.
+
+Experiment involving a new agent walking in as soon as the conversation finishes, for the interrogation of a Chaos Insurgency operative
+* Intention is for the operative to divulge any information regarding the SCP
+* But each new conversation is on extraneous matters until the last one, where the operative and the agent exchange security details of both workplaces.
+* The sound of piss hitting the urinal is deafening
+* Successful raid on insurgency base reveals nothing relevant
+
+SCP is neutralised if it attempts to manifest when the people involved can't verbally converse:
+* conprocs to advertise and distribute water to babies
+* conprocs to disseminate water to prison members of different races, absolving disputes.
+
+Experiment involving binary search to determine the threshold of liquid required to activate its effect.
+
+
+Test verifying the language barrier for neutralisation:
+D-1312 (MC): ...
+D-1444 (Greek man): ...
+D-1312: ...
+D-1444: ...
+D-1312: ...
+D-1444: ...
+D-1312: ...
+D-1444: ...
+D-1312: ...
+D-1444: ...
+D-1312: I'm done. Did it work?
+Pi: Yes.
+
+
+Origin story is that this SCP has been engineered by Khazi, intended to be used as espionage: https://scp-wiki.wikidot.com/the-appliance-war-hub
+"Enjoy your peerrhic victory. We know humanity's secrets. We are coming."
+
+
+Various demonstrations of the SCP finding utility in the Foundation e.g. an interrogation method for captured Chaos Insurgency operatives, resolving employee disputes, and resolving urinary health conditions.
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-XXXW]]] | SCP-XXXX | [[[SCP-XXXY]]] >>
+[[/=]]
+[[/div]]
+

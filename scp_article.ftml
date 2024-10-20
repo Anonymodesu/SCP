@@ -1,0 +1,614 @@
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[module css]]
+.experiment {
+    padding: 10px;
+    margin:10px;
+    margin-bottom:20px;
+    margin-top:20px;
+    background-color: #f2f2f2;
+    border: 2px dotted #737373;
+    color: black;
+}
+
+.experiment-table-left td {
+    width:50%; vertical-align:top; border-right: 1px dotted gray;
+}
+.experiment-table-right td {
+    width:50%; vertical-align:top
+}
+
+.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; margin-bottom:20px; margin-top:20px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}
+.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}
+
+.bulletin {background: gray; padding: 1px 15px; border: solid 3px lightgray; margin: 10px; border-radius: 30px 15px;}
+.bulletin-entry {background: white; padding: 1px 15px; border: solid 3px lightgray; margin: 10px; border-radius: 30px 15px;}
+[[/module]]
+
+
+
+[[include component:image-block | name=https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Google_Glass_%2814810415938%29.jpg/800px-Google_Glass_%2814810415938%29.jpg?20230502172310 | caption=SCP-XXXX-A | width=WIDTH-GOES-HERE]]
+
+[[include component:image-block | name=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Tandberg_television_set_%281962%29.jpg/391px-Tandberg_television_set_%281962%29.jpg?20121110154319 | caption=SCP-XXXX-B | width=WIDTH-GOES-HERE]]
+
+**Item #:** SCP-XXXX
+
+**Object Class:** --Safe-- Thaumiel
+
+**Special Containment Procedures:** Both SCP-XXXX-A and SCP-XXXX-B are contained at Site-19, separately in containment lockers [REDACTED] and [REDACTED].
+
+**Addendum XXXX.10**: The interior of each locker is lined with copper sheeting. Requests to access each locker must be approved by personnel with clearance Level 4 or above.
+
+**Description:** SCP-XXXX-A is a wearable device designed by the company ██████. SCP-XXXX-B is a colour television from the 1960s. By themselves, they exhibit no anomalous properties, and disassembly reveals material expected in electronic devices.
+
+Anomalous effects manifest when:
+* SCP-XXXX-A is charged and SCP-XXXX-B is plugged into a power source.
+* radio waves produced by SCP-XXXX-A are detectable by SCP-XXXX-B. 
+* a sentient being wears SCP-XXXX-A.
+
+Once the necessary conditions are met, SCP-XXXX-B displays video and emits sound consistent with the audiovisual senses perceived by the subject wearing SCP-XXXX-A.
+
+Furthermore, SCP-XXXX-B has variable capability to suppress cognitohazardous elements. For further details, refer to experiment logs XXXX.2.
+
+[collapsible show="**Selected logs from XXXX.1: 27/12/2022 - 01/03/2023**" hide="- Hide"]]
+
+[[div class="experiment"]]
+**Researcher(s)**: Snr. Researcher A. Cartwright
+**Subject(s)**: D-3131
+**Procedure**: D-3131 wears SCP-XXXX-A. He starts adjacent to SCP-XXXX-B and walks 100 metres westward, while carrying a portable FM radio, tuned to a local news station.
+----
+**Results**: SCP-XXXX-B displays D-3131's visual field, and replays the news report, with approximately a 150ms delay. Initial visual resolution is 640 × 480px, and audio bandwidth is estimated to be 13 kHz. SCP-XXXX-A's audiovisual feed gradually becomes grainier, and resembles television static upon D-3131 reaching a distance of 70 metres.
+[[/div]]
+
+[[div class="experiment"]]
+**Researcher(s)**: Snr. Researcher A. Cartwright, Snr. Engineer S. Xiang
+**Subject(s)**: D-3131
+**Procedure**: D-3131 wears SCP-XXXX-A and is positioned 100 metres from SCP-XXXX-B. A WiFi extender is positioned equidistant between D-3131 and SCP-XXXX-B, and is configured without password authentication.
+----
+**Results**: SCP-XXXX-B shows television static.
+
+**Addendum XXXX.1:** The radio waves emitted by SCP-XXXX-A resemble 802.11x WiFi protocols, but don't exactly match any known standard. Decoding the data packets sent as part of these radio waves will be prioritised when resources become available. - //Xiang//
+[[/div]]
+
+[[div class="experiment"]]
+**Researcher(s)**: Snr. Researcher A. Cartwright
+**Subject(s)**: D-4838, who suffers from total visual impairment
+**Procedure**: D-4838 wears SCP-XXXX-A.
+----
+**Results**: SCP-XXXX-B displays a black screen.
+[[/div]]
+
+[[div class="bulletin"]]
+
+**Site-19 Bulletin Board - 04/01/2023**
+
+[[div class="bulletin-entry"]]
+
+**Welcome back**
+
+Facility Director Arthur Hackett
+
+----
+
+I hope everyone enjoyed their well-earned break. I'd like to thank those that worked over Christmas to keep the lights on.
+
+As per usual, yearly site rotations have started, so you might be seeing some fresh faces around here.
+
+We've only had 7 containment breaches last year, down from 9 the year before. Let's keep up the good work people!
+
+[[/div]]
+
+[[div class="bulletin-entry"]]
+
+**Looking for help**
+
+Senior Researcher Alex Cartwright
+----
+
+Happy new years guys!
+
+Anyone want to take over [[span style="color:blue"]] SCP-XXXX [[/span]] for me? It's not dangerous so it's a good opportunity for a junior researcher to learn the ropes. I'm pretty swamped with budget reports at the moment, so I'd appreciate if someone could lend a hand.
+
+[[/div]]
+[[/div]]
+
+[[div class="email"]]
+[[div class="tofrom"]]
+**To:** a.cartwright3@scp.int
+**From:** t.choyce@scp.int
+**Subject:** Whaddup
+[[/div]]
+----
+Yo senpai!
+
+I didn't know you worked here! Do you wanna catch up some time?
+I saw your post, and I can definitely help you out. It'll be just like the good ol' times.
+
+//PS. I should mention I just got transferred here. The folks over at Site-322 didn't like me much haha.//
+
+//PPS. Can I still call you senpai//
+
+[[/div]]
+
+
+[[div class="email"]]
+[[div class="tofrom"]]
+**To:** t.choyce@scp.int
+**From:** a.cartwright3@scp.int
+**Subject:** Re: Whaddup
+[[/div]]
+----
+Hi Dr. Choyce,
+
+Congrats, did you finally graduate from college?
+By "good ol' times", are you referring to me doing all the work in every group project?
+But yeah, thanks for giving me a hand. Let's grab a coffee and I'll show you around.
+
+//PS. Not surprised.//
+
+//PPS. No.//
+[[/div]]
+
+[[div class="experiment"]]
+**Researcher(s)**: Jnr. Researcher T. Choyce
+**Subject(s)**: D-3131
+**Procedure**: D-3131 wears SCP-XXXX-A and looks at SCP-XXXX-B's display.
+--**Status**: Auto rejection after 24hrs. Staff on disciplinary probation require a supervising researcher.--
+**Status**: Approved - //Cartwright//
+
+**Comments**:
+* Why didn't you tell me you're on probation?! - //Cartwright//
+----
+**Results**: SCP-XXXX-B displays --that cool effect when you put two mirrors next to each other.-- D-3131's visual field as a series of concentric images, similar to recursive imagery shown by two opposing mirrors.
+D-3131 utters "that's sick", which --echoes and grows louder.-- initiates an audio feedback loop between SCP-XXXX-A and SCP-XXXX-B, repeating and progressively amplifying D-3131's vocalisation. The volume of these vocalisations reaches a peak of 86 dB.
+
+**Comments**:
+* That //is// sick. - //Choyce//
+* No it's not. The same effect can be achieved by, say, video-recording a TV while streaming to it with a mobile phone. - //Cartwright//
+
+**Addendum XXXX:** In the future, SCP-XXXX-B's volume dial should be turned down for experiments where its auditory properties are irrelevant. - //Cartwright//
+[[/div]]
+
+[[div class="experiment"]]
+**Researcher(s)**: Jnr. Researcher T. Choyce
+**Subject(s)**: --D-5457, who is blind in one eye.-- D-8842, who is deaf in one ear.
+**Procedure**: --D-5457-- D-8842 wears SCP-XXXX-A. A drone circumnavigates around D-8842, playing an excerpt of //Symphony No. 9 (Beethoven)//.
+SCP-XXXX-B is placed 20m from D-8842.
+**Status**: Approved - //Cartwright//
+
+**Comments:**
+* Initial proposed procedure is unlikely to yield new insights - //Cartwright//
+----
+**Results**: SCP-XXXX-B's volume --goes up and down-- oscillates. Quality of playback is somewhat diminished.
+
+**Comments:**
+* Vocabulary needs work. - //Cartwright//
+[[/div]]
+
+[[div class="experiment"]]
+= [RECOVERED AUDIO LOGS - Computer Laboratory F-23]
+
+Choyce: Hey Alex, does the Foundation ever help out the public? Like, the people out there?
+
+Cartwright: Yeah, we contain anomalies for them.
+
+Choyce: I mean, apart from that. We have so much resources here.
+
+Cartwright: And your point is?
+
+Choyce: We could be giving aid to developing countries! We have reality benders that can avert natural disasters! Hell, we even have infinite cakes and pizza we can dish out to starving people!
+
+Cartwright: //Sigh.// Focus on your lab report. We can debate philosophy some other time.
+
+Choyce: Why not? Anything'll be better than writing this crap.
+
+Cartwright: Do your job. Your performance review is due next quarter. The Foundation needs a good reason to keep paying you.
+
+Choyce: Ah shit, I need to remember that.
+
+Cartwright: Good. And remember your other job is to make my life easier, not harder.
+[[/div]]
+
+[[div class="email"]]
+[[div class="tofrom"]]
+**To:** a.cartwright3@scp.int
+**From:** s.xiang2@scp.int
+**Subject:** Decoding this piece of shit
+[[/div]]
+----
+Hey Alex,
+
+Forget WiFi, the signals sent by these glasses don't correspond to //any// TCP/IP protocols. At least none of the open-source ones. I'm guessing SCP-XXXX is operating on some proprietary framework invented by those nerds at Google.
+I bet they think they're so smart. Well, I'll show 'em. I've still got ideas to suss out this thing.
+[[/div]]
+
+[[div class="experiment"]]
+**Researcher(s)**: Jnr. Researcher T. Choyce
+**Subject(s)**: D-5501, who --has tinnitus.-- scored 61 under the Tinnitus Handicap Inventory
+**Procedure**: D-5501 wears SCP-XXXX-A.
+**Status**: Approved - //Cartwright//
+----
+**Results**: SCP-XXXX-B emits a ringing sound at a pitch of 5.3 kHz.
+[[/div]]
+
+[[div class="experiment"]]
+**Researcher(s)**: Jnr. Researcher T. Choyce
+**Subject(s)**: --Jnr. Researcher T. Choyce-- D-3131
+**Procedure**: --Choyce-- D-3131 wears SCP-XXXX-A and --takes 150 micrograms of acid.-- consumes 200 micrograms of LSD (//lysergic acid diethylamide//).
+**Status**: Approved - //Cartwright//
+
+**Comments:**
+* There's a time and place for everything. - //Cartwright//
+----
+**Results**: After 23 minutes, SCP-XXXX-B displays a blurred view of the interrogation room.
+At 31 minutes, the appearance of the room is --curved-- spatially distorted.
+At 43 minutes, D-3131 looks at an indoor palm tree, which appears as Researcher [REDACTED], and D-3131 attempts to [REDACTED] with --her-- it. --The experiment is cancelled.-- D-3131 is recalled and the experiment ends prematurely.
+
+**Comments:**
+* A word of this to //anyone// I'll file a harassment charge and you'll be done here. - //Cartwright//
+[[/div]]
+
+
+[[div class="experiment"]]
+**Researcher(s)**: Snr. Researcher A. Cartwright, Jnr. Researcher T. Choyce
+**Subject(s)**: Agent S. Pawsley - a cat (//Felis catus//)
+**Procedure**: Agent S.Pawsley wears SCP-XXXX-A in an enclosed room artificially lit at 1.5 lux. An elastic band is used to help affix SCP-XXXX-A onto the cat's head.
+----
+**Results**: SCP-XXXX-B displays a brighter, blurred image of the room, as if it was lit at 10.5 lux.
+[[/div]]
+
+
+
+[[div class="experiment"]]
+**Researcher(s)**: Jnr. Researcher T. Choyce
+**Subject(s)**: [[[SCP-096]]]
+[[footnote]] A sentient creature which invariably kills anyone who sees its face. [[/footnote]]
+**Procedure**: SCP-096 wears SCP-XXXX-A.
+**Status**: Auto rejection after 24hrs. Staff on disciplinary probation require a supervising researcher.
+
+**Comments:**
+* Jesus, you'll risk the lives of personnel and damage to SCP-XXXX. I don't even have clearance to approve this. - //Cartwright//
+* Then who can approve it? Aren't you interested in what this guy sees? Live a little senpai. This is why you don't have a boyfriend yet. - //Choyce//
+* And this is why you're a junior. What do you hope to get out of this experiment? SCP-096 stares at walls all day. - //Cartwright//
+* What about other SCP's? There's got to be some interesting stuff out there we could put the glasses on. - //Choyce//
+[[/div]]
+
+----
+
+[[div class="email"]]
+[[div class="tofrom"]]
+**To:** p.lague@scp.int
+**From:** a.cartwright3@scp.int
+**cc:** a.hackett@scp.int; t.choyce@scp.int
+**Subject:** Secondment to Site-322
+**Attachments:**[[span style="color:blue"]] Experiment_Logs_XXXX.log [[/span]]
+[[/div]]
+----
+Hi Dir. Lague, it's been a while.
+
+You know how Dr. Coix always complained about the unpredictability of sapient anomalies? Well here's a fresh opportunity to gain some insight in how they work.
+Please see attached. If you and Director Hackett agree, I'd like myself, Researcher Choyce and SCP-XXXX to be temporarily transferred to Site-322.
+[[/div]]
+
+
+[[div class="email"]]
+[[div class="tofrom"]]
+**To:** a.cartwright3@scp.int
+**From:** p.lague@scp.int
+**cc:** a.hackett@scp.int; t.choyce@scp.int
+**Subject:** Re: Secondment to Site-322
+[[/div]]
+----
+Hi Dr. Cartwright,
+
+Is Choyce freeloading off you now? Well as long as his problems are your problem, I'm happy to have you over.
+Just make sure you get the proper sign-off prior to any cross-testing. You know the drill.
+I'll let the others know you're swinging by.
+[[/div]]
+
+[[div class="experiment"]]
+**Researcher(s)**: Snr. Researcher A. Cartwright, Jnr. Researcher T. Choyce
+**Subject(s)**: [[[SCP-5595]]]
+[[footnote]] A gumball machine which works in Site-322's accounting department. [[/footnote]]
+**Procedure**: SCP-XXXX-A is affixed to SCP-5595's glass dome via a temporary adhesive.
+**Status**: Approved - Snr. Researcher A. Coix
+----
+= [BEGIN INTERVIEW LOG]
+
+Choyce: Hey SCP-5595, we're here for first your health checkup.
+
+SCP-5595: I AM IN PERFECT HEALTH.
+
+Choyce: We're err- the doctors taking care of you today. You remember us, right?
+
+SCP-5595: NO. SHOULD I? ALL YOU FLESH BAGS LOOK THE SAME.
+
+Cartwright: That is a problem if you have trouble distinguishing facial features. Looks like this checkup is worthwhile.
+
+//Choyce attaches SCP-XXXX-A onto SCP-5595.//
+
+Choyce: All yours, Alex.
+
+//SCP-XXXX-B displays a distorted 360 degree view of the interrogation room.//
+
+Cartwright: Is that a... Mercator projection of the room onto 2D space?
+
+//SCP-XXXX-B's display warps and enlarges Cartwright's face.//
+[[footnote]] This may be analagous to eye contact. [[/footnote]]
+
+SCP-5595: WHAT KIND OF DOCTOR USES A TELEVISION TO TEST EYESIGHT?
+
+Cartwright: Looks like SCP-5595 can see the visible light spectrum just like us.
+
+Choyce: Yeah not surprising. It can read our financial records.
+
+SCP-5595: DON'T COMPARE ME TO YOUR SPECIES.
+
+//Cartwright and Choyce disappear from the display. SCP-XXXX-B instead shows outlines of the electrical grid, plumbing system and steel framework supporting the surrounding building.//
+
+Cartwright: Ho-how are you doing that? How much of the EM spectrum can you see?
+
+SCP-5595: MORE THAN YOU.
+
+Choyce: That's pretty sick.
+
+SCP-5595: YOU KNOW WHAT ELSE IS SICK?
+
+//The researchers fade back into view. The area around Choyce's head distorts and reveals his bald spot.//
+
+Choyce (frantically covering his head): Hey, cut that out!
+
+Cartwright: Hahaha. You can see things without a line of sight.
+
+SCP-5595: I HAVE MANY EYES. I SEE ALL.
+
+Cartwright: Are you...triangulating the reflection of light?
+
+SCP-5595: I'M GLAD THERE'S SOMEONE ELSE IN THIS ROOM WITH MORE THAN 2 BRAIN CELLS.
+
+Choyce: This thing has brain cells?
+
+SCP-5595: I DO NOT NEED BRAIN CELLS. I AM THE SUPERIOR LIFE FORM. I AM THE ASCENDED BEING. I AM-
+
+Choyce: Wait, hold on. Our poker game the other day. You had an unreasonable winning streak.
+
+SCP-5595: ...
+
+Choyce: I thought you were just really good at card-counting, but if it's //actual// cheating...
+
+SCP-5595: CHOYCE, GET THIS THING OFF OF ME NOW. YOU'RE LUCKY YOU'RE NO LONGER ON THIS SITE'S PAYROLL.
+
+Choyce: Hey, you remember me.
+
+----
+
+**Addendum XXXX:** SCP-5595 declined to interview further. SCP-5595 has agreed to not dock Coix's salary, in return for our silence regarding its poker strategy. - //Choyce//
+**Addendum XXXX:** Unfortunately, there was no opportunity to measure SCP-5595's hearing ability. In the interest of Site 322's financial stability, further "health checkups" of SCP-5595 can be scheduled at a later date. - //Cartwright//
+**Addendum XXXX:** Request submitted to Lague for SCP-5595 to be introduced to the security department. It would be useful for surveillance and it has too much time on its hands. - //Coix//
+[[/div]]
+
+[[div class="email"]]
+[[div class="tofrom"]]
+**To:** a.cartwright3@scp.int
+**From:** s.xiang2@scp.int
+**Subject:** Re: Decoding this piece of shit
+[[/div]]
+----
+Hey Alex,
+
+How's your vacation going? 
+As for me, I'm at my wit's end. I've looked into the code sitting inside the glasses. Decompiling this into each of the top 200 popular programming languages yields nothing. Zilch. Nada. Everything is incompatible. Maybe they invented their own programming language too.
+I've asked around, talked to some of the guys who used to work at Google. They're as clueless about this as I am. SCP-XXXX could be like a secret project. Makes me almost want to work there.
+Anyway, I'm gonna take a break. You owe me bubble tea when you're back.
+[[/div]]
+
+[[div class="experiment" style="margin:0px;"]]
+**Researcher(s)**: Snr. Researcher A. Cartwright, Jnr. Researcher T. Choyce, Snr. Researcher L. Primaru
+**Subject(s)**: D-1946, D-9560, [[[SCP-6850]]]
+[[footnote]] A spherical cognitohazard capable of manipulating people's perception of it, and  compelling them to follow its instructions.[[/footnote]]
+[[footnote]] D-1946 and D-9560 were chosen due to their low CRV (Cognitive Resistance Value) evaluations of 0.42 and 0.45 respectively. [[/footnote]]
+**Procedure**: D-1946 wears SCP-XXXX-A and observes SCP-6850 in its containment chamber.
+D-9560 observes SCP-XXXX-B in an adjacent room.
+SCP-6850 was given a false tip-off that D-1946 is a sympathetic Foundation employee that seeks to help it escape from Site-322.
+D-1946 and D-9560 were briefed that they would need to monitor and maintain SCP-6850's containment, and would be rewarded with improved lodgings for their compliance.
+**Status**: Approved - Head Researcher C. Weigl
+----
+Cartwright , Choyce and Primaru remotely monitor each room. For clarity, the exchanges between the subjects have been organised into two parallel streams, and sorted chronologically.
+= [BEGIN EXPERIMENT LOG]
+
+@@@@
+[[table style="width:100%;" class="experiment-table-left"]]
+[[row]]
+[[cell]]
+D-1946: Err...hi, are you SCP-6850? //(Looking up)// Hey doc, there's one of you people sitting in that room. Is this some kind of joke? 
+//Security camera feed shows a spherical mass wreathed in blue flame.//
+@@@@
+@@@@
+@@@@
+Cartwright: Negative. That is the anomaly. Please observe and ensure it remains contained.
+SCP-6850 //(No audible response.)//: ...
+@@@@
+D-1946: Uhh..you alright in there buddy?
+SCP-6850: ...
+@@@@
+D-1946: He says he wants food.
+Cartwright: Noted. There is a care package inside the locker next to you. However, you must not enter the passcode '9421' and place the contents into the item transfer slot.
+D-1946: Sorry ma'am, gotta help a man when he's down.
+//D-1946 fumbles the locker passcode entry a few times, and eventually opens it.//
+D-1946: Huh? It's just leaves and shit.
+//Magenta sparks envelop SCP-6850.//
+SCP-6850: ...
+//D-1946 deposits the foliage into the item transfer slot. SCP-6850 ignites the contents and absorbs the ash.//
+@@@@
+SCP-6850: ...
+Cartwright: There is a safe in the locker, which contains a security access card [[footnote]] which is invalid.[[/footnote]] and burglary tools[[footnote]] which are defective.[[/footnote]]. You must not unlock the safe with the numbers 34, 65, 45.
+D-1946: Why not?
+Cartwright: Recall that if you fail to comply, your living quarters will remain in Facility 24-D.
+D-1946: Y'know, I've done some terrible things. About time I redeem myself and make myself great again.
+//53 minutes pass. It appears D-1946 does not understand how to operate a rotary safe lock.//
+SCP-6850: ...
+Cartwright: I think we're done here.
+[[/cell]]
+[[cell]]
+@@@@
+@@@@
+//SCP-XXXX-B shows a human dressed in Foundation uniform crouching in a fetal posture. Video feed is noticeably grainy, due to the wall between SCP-XXXX-A and SCP-XXXX-B.//
+D-9560: All I have to do is watch that guy?
+Primaru: That's right.
+@@@@
+SCP-XXXX-B (emitting sound with some static)[[footnote]] Speech from Cartwright and D-1946 has been omitted.[[/footnote]]: Hmm. Yellow fur. Orange skin. Round shape. [[footnote]] D-1946 is overweight.[[/footnote]] Matches description in secret note.
+//SCP-XXXX-B shows SCP-6850 stand up and approach D-1946.//
+SCP-XXXX-B: No. Am bored and hungry. You here to rescue yes?
+D-9560: Should we get some food for him?
+Primaru: Please stay put. You only have to observe and report.
+@@@@
+@@@@
+D-9560: Come on man. The passcode's only 4 numbers!
+@@@@
+@@@@
+//A wide grin spreads across SCP-6850.//
+SCP-XXXX-B: Oooo. Give give give.
+//SCP-6850 picks up the foliage, chews and swallows.//
+D-9560: So, I've only been locked up 3 years, and this what vegans are up to these days?
+SCP-XXXX-B: Me like! Nice orange round man. Next! Rescue!
+@@@@
+@@@@
+@@@@
+D-9560: I ought to go help out.
+//D-9560 attempts to leave the room, and struggles to open the door.//
+Primaru: The door's passcode is '4521', but please return to your seat. Don't you want to get a larger bedroom?
+D-9560: Ahhh...
+//After 34 seconds of deliberation, D-9560 returns and continues to watch SCP-XXXX-B.//
+@@@@
+SCP-XXXX-B: Go! Go! Go! I believe in round man!
+D-9560: I need a piss break.
+[[/cell]]
+[[/row]]
+[[/table]]
+----
+**Addendum XXXX.5:** D-9560 seems to resist SCP-6850's cognitive influence, despite having similar CRV's with D-1946. This may be due to environmental factors, such as proximity to SCP-6850, and/or  SCP-6850's lack of awareness of D-9560. It is possible that SCP-XXXX suppresses the effects of SCP-6850's influence. Further investigation is warranted. //- Cartwright//
+**Addendum XXXX.6:** This is the first time SCP-6850's hallucinatory form has been recorded digitally. I'd like to record the form of some other subjective anomalies, but Cartwright and SCP-XXXX are due back at Site-19. //- Primaru//
+**Addendum XXXX.7:** D-9560 has been transferred to Facility 22-C. //- Primaru//
+[[/div]]
+
+[[/collapsible]]
+@@ @@
+[collapsible show="**Selected experiment logs from XXXX.2: 05/01/2024 - 2/03/2024**" hide="- Hide"]]
+
+[[div class="bulletin"]]
+
+**Site-19 Bulletin Board - 05/01/2024**
+
+[[div class="bulletin-entry"]]
+
+**SCP-451**
+
+Junior Researcher Terry Choyce
+----
+
+Hey everyone,
+
+I've recently discovered a possible method to help out [[[SCP-451]]].
+I would be grateful if someone more familiar with his circumstances could collab with me, and draft up an experiment plan.
+Please see the database entry for [[span style="color:blue"]] SCP-XXXX [[/span]] and reach out to either myself or Researcher Cartwright.
+
+[[/div]]
+
+[[/div]]
+
+
+[[div class="experiment"]]
+**Researcher(s)**: Snr. Researcher A. Cartwright, Jnr. Researcher T. Choyce
+**Subject(s)**:  D-0850, D-3131
+**Procedure**: D-0850 wears SCP-XXXX-A. D-0850 is exposed to a visual Class II Foundation cognitohazard.
+D-3131 watches SCP-XXXX-B placed at a distance of 1m from D-0850.
+----
+**Results**: D-0850 coughs and expels approximately 20ml of blood. D-3131 experiences a nosebleed.
+[[/div]]
+
+
+[[div class="experiment"]]
+**Researcher(s)**: Jnr. Researcher T. Choyce
+**Subject(s)**: D-4450, --D-2294,-- D-3399[[footnote]] D-3399 is scheduled on death row.[[/footnote]], 
+**Procedure**: D-3399 wears SCP-XXXX-A. D-3399 is exposed to --a visual-- an auditory Class --II-- V Foundation cognitohazard.
+D-4450 watches SCP-XXXX-B placed at a distance of --5m-- 65m.
+--**Status**: Auto-rejected. Staff on disciplinary probation require a supervising researcher.--
+**Status**: Approved -  Snr. Researcher A. Cartwright
+
+**Addendum XXXX.8:** Initial proposed procedure is unlikely to yield new insights. - //Cartwright//
+**Addendum XXXX.9:** Also, why didn't you tell me that you're on probation?! - //Cartwright//
+----
+**Results**: D-3399 expires.
+--SCP-XXXX-B displays television static-- The melody of the cognitohazard is barely intelligible from SCP-XXXX-B.
+D-4450 --appears OK-- suffers from a migraine lasting 30s.
+**Addendum XXXX.10:** The cognitive suppression effect appears to be inversely proportional to the audiovisual resolution of the feed produced by SCP-XXXX-B - //Cartwright//
+[[/div]]
+
+[[div class="experiment"]]
+**Researcher(s)**: Snr. Researcher A. Cartwright, Jnr. Researcher T. Choyce
+**Subject(s)**:  D-0850, D-3131
+**Procedure**: D-0850 is exposed to a visual Class II Foundation cognitohazard.
+D-3131 is exposed to the same visual Class II Foundation cognitohazard, overlayed with television static to obfuscate the cognitohazard to be barely legible.
+----
+**Results**: D-0850 coughs and expels approximately 20ml of blood. D-3131 inspects the television static, and coughs 20ml of blood upon discerning the cognitohazard.
+**Addendum XXXX.11:** Verifies that our Foundation cognitohazards can't be circumvented by non-anomalous TV static.
+[[/div]]
+
+[[collapsible show="**LEVEL 4 CLEARANCE REQUIRED" hide="- Hide"]]
+[[div class="experiment"]]
+**Researcher(s)**: Jnr. Researcher T. Choyce
+**Subject(s)**:  D-1142, [[[SCP-2521|●●|●●●●●|●●|●]]]
+**Procedure**: D-1142 wears SCP-XXXX-A and looks at a photograph of numbers representing ●●|●●●●●|●●|●.
+SCP-XXXX-B is placed at distance of 65m from D-1142.
+**Status**: Auto-rejected. Staff on disciplinary probation require a supervising researcher.
+**Addendum XXXX.12:** JESUS CHRIST how did you access the database record for this?! Even //I// don't have clearance for it. Thank fuck you had the foresight to not refer to it literally. - //Cartwright//
+**Addendum XXXX.13:** Eat a snickers senpai, it was just a mistake. This is why you don't have a boyfriend yet. - //Choyce//
+**Addendum XXXX.14:** And this is why you're on probation. This is no time for jokes. You could have lost your life. - //Cartwright//
+**Addendum XXXX.15:** Cartwright and Choyce were administered Class C amnestics. The site database's authorisation protocols are being reviewed. - //Hackett//
+----
+[[/div]]
+
+[[/collapsible]]
+
+Tests with SCP-2140. Shows that it can be used against animals, to a limited degree. The cat's name gets changed and becomes loyal to the Foundation.
+
+[[div class="experiment"]]
+= [RECOVERED AUDIO LOGS]
+
+Cell Door: //BEEP.// Access Granted.
+
+Choyce: Hey, it's me. The MTF'll be here soon so let's get moving.
+
+D-9912: What. The hell. Did you do.
+
+Choyce: The Shy Guy's out, so-
+
+D-9912: WHAT?!
+
+Choyce: -so keep your head down. Then we can safely make it to extraction.
+
+D-9912: ...I'm staying here.
+
+D-9912: ...Give me that knife.
+
+D-9912: Removing my tracker.
+
+
+[[/div]]
+
+[[/collapsible]]
+@@ @@
+[[collapsible show="**CLEARANCE LEVEL 4 REQUIRED: Logs from XXXX.3: 05/08/2024 - 02/11/2024**" hide="- Hide"]]
+
+[[/collapsible]]
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-XXXW]]] | SCP-XXXX | [[[SCP-XXXY]]] >>
+[[/=]]
+[[/div]]
+
