@@ -28,59 +28,150 @@
 [[/module]]
 
 
-[[include component:image-block | name=https://upload.wikimedia.org/wikipedia/commons/9/9d/A_man_using_a_urinal.jpg | caption=Victim of SCP-XXXX | width=WIDTH-GOES-HERE]]
+[[include :scp-wiki:component:anomaly-class-bar-source
 
+|item-number= XXXX
 
-**Item #:** SCP-XXXX
+|clearance= 2
 
-**Object Class:** Keter
+|container-class= keter
 
-**Special Containment Procedures:** Hidden security cameras monitor Foundation-owned and high-traffic public restrooms around the globe. To assist, the artificial intelligence NLPEE (Natural Language Processing Enterprise Engine) parses video feed and provides real-time alerts of manifestations of SCP-XXXX's effects. In addition, NLPEE-controlled tasers are installed in Foundation restrooms, to prematurely end potential manifestations. Subjects suspected to have ingested SCP-XXXX are to be transferred to the nearest Foundation site, where they undergo Operation Dehydration.
+|secondary-class= none
 
-Specialty centrifuges (model no. UR-1-NE) are installed in both public-sector and Foundation-owned water treatment facilities, where SCP-XXXX is filtered into an on-site vat [[footnote]] Vat capacity should hold at least 5,000,000 litres. [[/footnote]]. Each vat is assigned at least two D-Class personnel, of mutually exclusive language proficiency, as well as a supervising researcher. The D-Class personnel are to consume SCP-XXXX, and the supervisor assumes the full-time responsibility for the continuous enactment of Operation Dehydration. They may request a site transfer after four weeks of operation.
+|secondary-icon= https://urlhere.com
 
-The following containment procedures are conditionally executed, until a time when Head Researcher Y. Nations deems that SCP-XXXX's global frequency has been limited to an acceptable degree [[footnote]] Current heuristic is 86 civilian manifestations per year. [[/footnote]].
+|disruption-class= ekhi
+
+|risk-class= caution
+
+]]
+
+[[include component:image-block | name=https://upload.wikimedia.org/wikipedia/commons/9/9d/A_man_using_a_urinal.jpg | caption=Victim of SCP-XXXX]]
+
+**Special Containment Procedures:** Hidden security cameras monitor Foundation-owned and high-traffic public restrooms. Individuals suspected to have ingested SCP-XXXX are to be transferred to the nearest Foundation site, where they undergo Operation Dehydration.
+
+Specialty centrifuges are installed in both public-sector and Foundation-owned water treatment facilities, where SCP-XXXX is filtered into an on-site vat [[footnote]] Vat capacity should hold at least 5,000 litres. [[/footnote]]. Each vat is assigned at least two D-Class personnel, of mutually exclusive language proficiencies, as well as a supervising researcher. The D-Class personnel are to consume SCP-XXXX, and the supervisor assumes the full-time responsibility for the continuous enactment of Operation Dehydration. 
+
+The following containment procedures are conditionally executed, until a time when Dr. Nations deems that SCP-XXXX's global frequency has been limited to an acceptable degree [[footnote]] Current heuristic is 86 civilian manifestations per year. [[/footnote]].
 * SCP-XXXX is provided as drinking water to D-Class personnel. Wardens are to enforce that these personnel enter restrooms in groups of mutually exclusive language proficiencies.
 * SCP-XXXX is publicly advertised and sold as healthy bottled water for infants.
-* Staff with Level 2 or higher clearance are advised against using public restrooms. Refer to incident XXXX.521.
+* Automated tasers are installed in Foundation restrooms.
 
-**Description:** SCP-XXXX is an anomalous variant of water, with a density of 985kg/m3 [[footnote]] For reference, the density of water is 997 kg/m3 [[/footnote]] at room temperature. SCP-XXXX lies dormant until it's ingested and reaches a threshold amount of 42% of the subject's body weight. In its active state, SCP-XXXX's anomalous effects manifest upon the subject's entry into a populated restroom.
+Personnel assigned to SCP-XXXX may request a site transfer after twelve weeks of service.
 
-A successful manifestation compels all present individuals to use adjacent toilets, prioritising urinals, and engage in pleasant conversation. Conversations have a strong tendency to expose personal information, more than what the subjects are normally comfortable revealing. Throughout the conversation, SCP-XXXX would self-replicate in each individual's urinary system to continue the discharge of urine. In most recorded cases, the total discharge far exceeds the capacity of a human bladder.
+**Description:** SCP-XXXX is an anomalous variant of water, with a density of 985kg/m3 [[footnote]] For reference, the density of water is 997 kg/m3 [[/footnote]] at room temperature. Once ingested by a human, SCP-XXXX's anomalous effects manifest upon their entry into a populated restroom.
 
-Urinary excretion wanes as the conversation naturally concludes, signalling the end of the manifestation. Interviews with affected subjects afterward suggest that their interpersonal relationship(s) have improved, and that they aren't troubled by their anomalous urinary performance.
+A successful manifestation compels all present individuals to use adjacent toilets and engage in pleasant conversation, with a strong tendency to expose personal information. Throughout the conversation, SCP-XXXX would self-replicate in each individual's urinary system to sustain the discharge of urine. In most recorded cases, the total discharge far exceeds the capacity of a human bladder.
 
-In the event where SCP-XXXX attempts to manifest, but the individuals involved are unable to verbally communicate, SCP-XXXX in their bladders is neutralised into non-anomalous water upon urination.
+Urinary excretion wanes as the conversation naturally concludes, signalling the end of the manifestation. Interviews with affected subjects afterward report that they aren't troubled by their anomalous urinary performance.
 
-**Addendum:** The following logs are a representative sample of incidents caused by SCP-XXXX. For access to the full collection, consult Researcher Y. Nations.
+In the event where SCP-XXXX attempts to manifest, but the individuals involved are unable to verbally communicate, the volume of SCP-XXXX in their bladders is neutralised into non-anomalous water upon urination.
 
-* Are you ready to begin [REDACTED]?
-* Give me a moment. I just woke up, so it's hard.
-* ...
-* ...
-* ...
-* Have you calmed down?
-* Uhh, kinda.
-* Proceed.
-* [REDACTED] and D-4421 enter the restroom and do their business.
-* ...
-* ...
-* ...
-* Flow is at a steady 14ml/s.
-* ...
-* ...
-* ...
-* Hey, watch it! (in Greek)
-* Spillage identified.  Please aim your discharge.
-* Sorry.
-* ...
-* ...
-* ...
-* Total volume measures 229.6ml. Elapsed time is 16.4s. Is that alright, Yuri?
-* Yes, it is within acceptable parameters.
-* So, when can I go home?
-* Based on your historical metrics, we project another 57 iterations before you're cleared.
+**Addendum:** The following logs are a representative sample of incidents caused by SCP-XXXX. For access to the full collection, consult Dr. Nations.
 
+[[div class="blockquote"]]
+= **Incident XXXX.116**
+= Men's restroom, Stanley Park, Vancouver, Canada
+
+.
+
+||~ Participant ||~ Duration (s) ||~ Est. Volume (ml) ||~ Est. Constituent SCP-XXXX ||
+|| Dir. Silva || 36 || 432 || 6.54% ||
+|| Man || 35 || 490 || 0% ||
+|| Dir. Silva || 36 || 432 || 6.54% ||
+
+----
+
+= [ VIDEO LOG ]
+
+fg
+
+[[/div]]
+
+[[div class="blockquote"]]
+= **Incident XXXX.2352**
+= Private Bathroom, Site 19 F-6 
+
+Department Director H. Silva enters her office bathroom. An unidentified man steps out of a locker, decloaks his camotech and holsters his firearm. They discuss origami techniques, before being interrupted by on-site security.
+
+||~ Participant ||~ Duration (s) ||~ Est. Volume (ml) ||~ Est. Constituent SCP-XXXX ||
+|| Dir. Silva || 36 || 432 || 6.54% ||
+|| Man || 35 || 490 || 0% ||
+
+**Addendum:** The man has been identified as a Chaos Insurgency operative, detained and scheduled for interrogation.
+----
+
+= [ DEBRIEFING LOG ]
+
+**Agent Bravo:** Sorry about that ma'am. We'll get you cleaned up.
+
+**Dir. Silva:** Why. The hell. Are there //tasers// in my toilet.
+
+**Agent Bravo:** New site protocol while you were on sabbatical. Handed down by O-██.
+
+**Dir. Silva:** What? Okay, well let's get into that later. Help me up.
+
+**Agent Bravo:** Negative on that order. I must remain outside the boundaries of this restroom.
+
+**Dir. Silva:** What about that unconscious gentleman in the shower? He has a //gun//.
+
+**Agent Bravo:** He's fairly harmless while you remain in the bathroom. We'll retrieve him after the drone arrives to fetch you for Operation Dehydration.
+
+**Dir. Silva:** Operation what?
+
+[[/div]]
+
+
+
+[[div class="experiment"]]
+[[=]]
++++ OPERATION DEHYDRATION - Foreword
+[[/=]]
+
+I know most of you complained once you were assigned to SCP-XXXX. Look, I get it, studying urine isn't anyone's cup of tea. Just suck it up. You're given the option to rotate out after 3 months anyway. There are far worse things you could be doing in the Foundation. 
+
+Worse things such as Operation Dehydration. Unfortunately, it's the most reliable method we've got to keep manifestation numbers down. For some reason the skip turns to regular water if the people can't speak. Took us forever to figure that one out. So we've arranged for some special D-Class to act as water purifiers, and you'll be making sure they're peeing right, 8 hours a day. Same applies if a civilian wanders to a toilet and starts announcing their life story. We snatch them and flush SCP-XXXX from their system. Give 'em plenty of water - regular water - to speed up the process.
+
+Some of you might ask, what's the point? Why go to such lengths to stop a bit of gossiping? Well just like gossip, this piss spreads. And spreads fast. Worst case: LK-Class scenario. Elimination of privacy, and our precious veil becomes as flimsy as soggy toilet paper. On top of that, each manifestation effectively grows the volume of water on Earth, a net increase in global sea levels. So unless you want to drown the planet in humanity's piss, do your job.
+
+[[>]]
+//- Dr. Y. Nations//
+[[/>]]
+
+----
+
+= [BEGIN VIDEO LOG]
+
+Pi: Are you ready to begin [REDACTED]?
+[REDACTED]: Give me a moment. I just woke up, so it's hard.
+Pi: ...
+[REDACTED]: ...
+D-3523: ...
+Pi: Have you calmed down?
+[REDACTED]: Uhh, kinda.
+Pi: Proceed.
+//[REDACTED] and D-4421 start doing their business.//
+D-3523: ...
+[REDACTED]: ...
+Pi: Flow is at a steady 14ml/s.
+[REDACTED] ...
+D-3523: ...
+[REDACTED] ...
+D-3523: Hey, watch it! (in Greek)
+Nations: Spillage identified.  Please aim your discharge.
+[REDACTED]: Sorry.
+D-3523: ...
+[REDACTED] ...
+Pi: Total volume measures 229.6ml. Elapsed time is 16.4s. Is that alright, Yuri?
+Nations: Yes, it is within acceptable parameters.
+[REDACTED]: So, when can I go home?
+Nations: Based on your historical metrics, we require another 57 iterations before you're cleared.
+
+[[/div]]
+
+Researcher put on administrative leave after exposing janitor to information beyond their clearance. D-Class have their tongues cut to avoid speaking.
+
+Entire town succumbs to SCP-XXXX. Not feasible to evacuate entire population to a Foundation facility, so Operation Hydration is attempted on-site. They realise that higher density people are no longer able to pee by themselves.
 
 [[footnoteblock]]
 

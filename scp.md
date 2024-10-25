@@ -129,6 +129,7 @@ Puns:
 * Untied states of america
 * Aids in digestion / Aids indigestion
 * D-Class / Declassified
+* Hypothermia / Hyperthermia
 
 ---
 
@@ -162,25 +163,53 @@ Article ia a metaphor for humanity's understanding of its effects to the environ
 
 **Genre:** Comedy
 
-**Elevator Pitch:** The article describes the various ways the SCP eliminates restroom etiquette.
+**Elevator Pitch:** The SCP eliminates restroom etiquette. The article would the amusing and unsettling consequences of it
 
 **Central Narrative:** 
 
 Conprocs involve the surveillance of high-traffic public restrooms and Foundation restrooms. Neutralisation methods include "Operation Dehydration", which is only mentioned, and its details are revealed in addenda.
 
 The description is brief, and only explains some fundamental properties of the SCP:
-* The SCP is anomalous water that once ingested, compels people in restrooms to engage in pleasant conversation and overshare their personal information.
-* The SCP anomalously replicates itself in bladders until conversation naturally finishes. 
+* The SCP is anomalous water that once ingested, compels people in restrooms to use adjacent toilets, engage in pleasant conversation and overshare their personal information.
+* The SCP is neutralised if it attempts to manifest between people who cant communicate. This will hopefully make some of the conprocs click for the reader.
+ 
 
-Addenda include:
-* Utility provided by the SCP, such as resolving employee disputes and interrogation of operatives from rival organisations
+General tonal progression of the incident logs is comedic -> unsettling -> horror. Examples of logs:
+* Utility provided by the SCP, such as resolving disputes and interrogation of operatives from rival organisations
 * Dangers of the SCP, such as threatening the veil, and causing Foundation executives to discuss confidential information in restrooms
-* Incident log where more people than the available toilets enter a restroom. People without a toilet will stare at and wait for urinating individuals to finish before joining in.
-* "Operation Dehydration" is elaborated on. The SCP remains dormant until a threshold has been ingested (say 40L of water). So affected civilians would be moved to a Foundation facility, and instructed to drink normal water and urinate over several days until the SCP is drained from their body. The SCP is neutralised if the people in the restroom are unable to verbally communicate, so a D-Class with a different language background would be urinating alongside the civilian. An educational video log is provided as a representative enactment of "Operation Dehydration".
+* "Operation Dehydration" is elaborated on. Affected civilians would be moved to a Foundation facility, and instructed to drink normal water and urinate over several days until the SCP is drained from their body. The SCP is neutralised if the people in the restroom are unable to verbally communicate, so a D-Class with a different language background would be urinating alongside the civilian.
+* A town with a localised water cycle has excessive quantities of the SCP, where Operation Dehydration isn't enough to save it. The Foundation deems it to be a lost cause.
 
-The ending summarises its discovery and the prior global effort required to contain it. The SCP is suggested to be created by SCP-7939, for espionage before taking over humanity.
+The ending suggests the SCP to be created by SCP-7939, for espionage before taking over humanity.
 
 
+Outline: 
+Conprocs are primarily via mass surveillance in restrooms and filtration at water treatment plants. Operation Hydration is referred to in relation to a language barrier, but it's not explained in detail. To help hook the reader, the conprocs also refer to some bizarre methods, like installing tasers in Foundation restrooms and advertising the SCP to infants.
+
+The description explains some fundamental properties of the SCP:
+* The SCP is anomalous water that once ingested, compels people in restrooms to use adjacent toilets, engage in pleasant conversation and overshare their personal information.
+* The SCP is neutralised if it attempts to manifest between people who cant communicate. This will hopefully make some of the conprocs click for the reader.
+
+Incident logs are numbered with large numbers to indicate that a lot of people have been affected. General tonal progression is comedic -> unsettling -> horror. Some of the logs mention that the affected people are sent off for Operation Dehydration.
+* Light-hearted incident logs are interspersed throughout the article, but appear more in the beginning. They include:
+  * A woman noticing her substantial urine flow despite being pregnant
+  * News excerpt suggesting the SCP caused the acquisition of Twitter by Musk.
+  * Altercation between two people in a restroom. A 3rd party affected by the SCP walks in, and they resolve their dispute.
+  * The Foundation using this SCP to interrogate a Chaos Insurgency executive
+* Unsettling incident logs include:
+  * More people than the available toilets enter a restroom. People without a toilet will stare at and wait for urinating individuals to finish before joining in.
+  * Foundation employee discussing an infohazard with their niece. They maintain a pleasant conversation even as the infohazard takes hold of them.
+  * Multiple people forced to have a long pleasant conversation in a tropical environment, despite heat stroke.
+
+"Operation Dehydration" is elaborated on. Affected people would be moved to a Foundation facility, and instructed to drink normal water and urinate until the SCP is drained from their body. A D-Class with a different language background would be urinating alongside them. The explanation also hints that the SCP was a lot more prevalent before and this procedure is the most efficient way to neutralise it. 
+* Immediately before this explanation, there would be an audio log showing an affected Foundation executive reluctantly agreeing to this operation.
+* An educational video log is provided as a representative enactment of "Operation Dehydration". The log shows that the civilian's urination is precisely measured, and that the process would repeat over several days.
+
+An incident log describes how a localised water cycle has exacerbated the SCP's effects on a small town. The SCP composes a large fraction of the water in each resident's body. The log shows how this compels residents to seek out populated restrooms, and they eventually become unwilling to pee by themselves. The Foundation attempts to save the town, but eventually deems it to be a lost cause.
+
+An experiment log on a D-Class, where the SCP comprises most of the water in their body. The D-Class is physically unable to pee. The Foundation forces them to ingest more of the SCP. This ruptures their organs from the water pressure, but I'll redact this to leave this up to the reader's imagination.
+
+A video log suggests the SCP to be created by SCP-7939, for espionage before taking over humanity. I've consulted the author of SCP-7939 to check if this fits well into that canon.
 
 
 The story starts off in 1990, in the farmland of Roraima, Brazil, near the Amazon rainforest (chosen for plot convenience):
