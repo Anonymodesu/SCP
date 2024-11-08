@@ -211,50 +211,11 @@ An experiment log on a D-Class, where the SCP comprises most of the water in the
 
 A video log suggests the SCP to be created by SCP-7939, for espionage before taking over humanity. I've consulted the author of SCP-7939 to check if this fits well into that canon.
 
+Hi, I hope you enjoyed reading my first article.
 
-The story starts off in 1990, in the farmland of Roraima, Brazil, near the Amazon rainforest (chosen for plot convenience):
-* Initial discovery involves an overflowing septic tank due to a bunch of men peeing for an extended period of time. The MC happens to be vacationing in Brazil and gets paged, and reluctantly agrees to handle it.
-* MC sets up a makeshift Foundation outpost in the region, and sets up hidden security cameras in the mens' restrooms.
-* Initially, the SCP manifests very rarely (say, once a year). He gets bored and intermittently sends requests for a site transfer, which are rejected.
-* He has a lot of free time, and decides to adapt to his new lifestyle. Among his new hobbies, he sets up a rudimentary AI that can parse audio feed from the restrooms, and alert him of manifestations.
-* He also sends requests for resources to help with studying the SCP. Several of these requests are rejected due to the insignificance of the SCP, or lost due to the poor network connection in the region. His request for a janitor makes it through, and the janitor becomes his sole colleague for several years. A gay romance is hinted between him and the janitor throughout the story.
-* MC eavesdrops a bathroom conversation about a merger between two agricultural firms. He buys out stock for one of the companies for some much-needed funds (insider trading).
-* MC sends regular updates to show the SCP's growing frequency, which are ignored. Eventually, the SCP manifests in a woman's restroom, which is outside the current established scope of the SCP, and this catches the Foundation's attention. I'll make the argument that the SCP only manifested in men until now, due to the predominantly male workforce in agriculture.
-* SCP is reclassed Euclid -> Keter
+My browser history is now tainted with questionable research topics required to give this 4k shit(piss?)post some scientific grounding. 
 
-MC is transferred to a site with proper resources. The year is 2018. The MC is somewhat out-of-touch with the rest of the Foundation due to his long time working in isolation.
-* He's in his 60s now and would like to retire soon. He requests for the SCP to be assigned to someone else. This is blocked by the FSD and the Ethics committee, citing his earlier insider trading and sharing of confidential information to the janitor (who has Level 0 clearance). They threaten to void the MC's retirement fund, and this becomes the MC's primary motivation to contain the SCP.
-* SCP manifestations start appearing around the globe. The rest of the article is interspersed with bar charts, showing how its numbers change over time. 
-* After some deliberation with the Ethics committee, MC gets approval to set up surveillance in high-traffic restrooms around the globe.
-* MC sends out a badly advertised request for new personnel, and only a single junior researcher shows up.
-* Since the junior is female, she's tasked with monitoring female restrooms, and understandably complains. MC's AI is upgraded with new hardware to help her out. The researchers can speak to its interactive holographic interface, which renders a person sitting on a toilet. Based on what it has observed, the AI thinks this is what best represents a human.
-* The MC, AI, janitor, and junior work together to produce various useless findings over time. MC is shown to have become somewhat unhinged, due to his bad luck and slow progress.
-* SCP manifests in a Foundation restroom, where a Foundation executive discusses an infohazard with cleaning staff, and causes a containment breach.
-* SCP is reclassed Keter -> Apollyon. Conprocs are updated to the enforce that only 1 Foundation employee may enter a Foundation restroom at any point in time, and the rest have to queue up outside. Amnestics are administered to civilians who notice the manifestations.
-* Eventually the janitor posits that the SCP is related to water, showing an epidemiology report that hints the SCP's behaviour is correlated with waterborne disease, and that the SCP's frequency grows quickly in areas with localised water cycles. It's revealed to the reader that the janitor has studied in various sciences, due to having a lot of free time after cleaning their small makeshift office back in Roraima.
-* The trio collect and compare various urine samples in high- and low- manifestation areas. No useful results are found. MC lashes out at the janitor.
-* The junior shows the MC a video log of a restroom conversation between a Wuhan bioweapons researcher and a civilian, discussing their work on engineering a virus. It's a work in progress since the virus isn't lethal, only contagious. The junior asks the MC if they should intervene. MC begins to lash out at the junior for wasting his time on something irrelevant, but then reconsiders and thanks her instead.
-* The MC enlists an MTF squad to break into the bioweapons lab and release the virus.
-* MC is brought before the Ethics committee for a disciplinary hearing. MC justifies the virus can be vaccinated against, so its preferable to a LK-Class scenario, caused by an anomalous disease with no known cure.
-* Various countries in the world start enforcing social isolation and lockdown due to the COVID outbreak. SCP manifestations also start decreasing.
-
-The MC has been demoted to D-Class and self-reflects in his cell. "What's the worth of retirement money if I have noone to retire with?". His reflection is interrupted by the janitor and junior visiting him, and they reconcile. The junior submits a request to procure the MC as a D-Class. MC is referred to by his D-Class designation for the rest of the article.
-
-* All official correspondence is submitted by the junior from henceforth, since she's the only one with sufficient clearance.
-* The team discuss the SCP from its fundamentals. They realise that the SCP somehow occurs on top of bodies of water, and its prioritised for urine. They review their urine analyses from before and deduce that the SCP is less dense than regular water. 
-* They travel back to Roraima, ground zero of the SCP. Due to the Brazilian government's poor organisation, lockdown was poorly enforced, and SCP manifestations occur at a very high rate per capita. Hence, they can get purer samples of anomalous water here, and conclude that the SCP is indeed less dense.
-* The junior and an old lady enter the same restroom. The junior apologises for not being able to speak Portugese.
-* Funny/heartwarming scene where the junior reacts to their makeshift office, and the AI reacts to its old hardware.
-* Incident log showing that deaths have occurred in Roraima due to the SCP. Audio logs show people that were forced to have extended pleasant conversations in 40 degree temperatures, and died from dehydration and heat stroke.
-* Conprocs are updated to install specialised centrifuges at water treatment plants and divert the SCP to large vats. The vats are filled up almost immediately.
-* NEWS FLASH! Twitter acquisition by Elon Musk announced. Twitter CEO claims he had a nice conversation with Musk and put aside their differences.
-* COVID lockdowns are being relaxed, and SCP manifestations starting increasing in frequency
-* MC, AI, the junior and janitor discuss how to neutralise the SCP, since the centrifuges aren't enough on their own. Options include electrolysis to split the water into H2 and O2, or nuclear fusion, but these are deemed unfeasible at scale.
-* Experiment log to interrogate a captured Chaos Insurgency executive, to check if this SCP was engineered by the CI. The CI executive drinks the SCP and walks into a bathroom. MTF personnel walk in one by one to randomly retrigger a new pleasant conversation, until the topic discussed is something useful. Eventually, the MTF and the CI executive start discussing how each of their facilities are hidden and secured. A few CI facilities are raided successfully, but nothing relevant to the SCP is found.
-* The junior recalls that the SCP didn't manifest between her and the old Roraiman lady. They test whether the language barrier can be used to neutralise the SCP, and the test verifies this. This plot point seems contrived, so I'll look at reworking this.
-
-Ending:
-* SCP reclassed from Apollyon -> Thaumiel. It is useful for treating urinary diseases, resolving employee disputes, and interrogating operatives from rival organisations.
-* Conprocs are updated to get D-class and regular prisoners with different language backgrounds to mix when going to the bathroom. Prison gang violence worldwide is reduced.
-* Conprocs are updated to advertise SCP as very healthy water for infants. Babies are illiterate and neutralise the SCP whenever they are brought into a restroom.
-* The junior (now a senior) visits the MC and the janitor. It is implied they are retired and living in Roraima. She explains that she's investigating Roraima for the root cause of the SCP, and found an anomalous toilet - [[[SCP-7939]]] - deep in an underwater cave, flushing itself and producing the SCP.
+1. Does the tonal shift into horror work for you?
+1. I've minimised the info-dumping, but does anything not make sense?
+1. Does the dialogue feel flat, even after taking into consideration that they are affected by the SCP?
+1. Are the urine puns too much?
