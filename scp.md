@@ -211,11 +211,13 @@ An experiment log on a D-Class, where the SCP comprises most of the water in the
 
 A video log suggests the SCP to be created by SCP-7939, for espionage before taking over humanity. I've consulted the author of SCP-7939 to check if this fits well into that canon.
 
-Hi, I hope you enjoyed reading my first article.
-
-My browser history is now tainted with questionable research topics required to give this 4k shit(piss?)post some scientific grounding. 
+Hi, I hope you enjoyed reading my first article. My browser history is now tainted with questionable research topics.
 
 1. Does the tonal shift into horror work for you?
 1. I've minimised the info-dumping, but does anything not make sense?
 1. Does the dialogue feel flat, even after taking into consideration that they are affected by the SCP?
 1. Are the urine puns too much?
+
+----
+
+SCP that blows up bureacratic processes and makes people say corporate word salad
