@@ -208,7 +208,7 @@ Further attempts are postponed until further notice.
 [[/=]]
 
 
-**Addendum 8667.3:**
+**Addendum 8667.3:** Updated containment procedures
 
 [[div class="lightbox"]]
 [[=]]
@@ -221,9 +221,9 @@ Further attempts are postponed until further notice.
 
 Since its inception, the Foundation has observed an exponential increase in the number of humanoid anomalies, in line with population growth of baseline humanity. Financial and sociopolitical backing from public and private institutions is barely keeping pace with the growing demand of containment. It is clear that the current approach is not sustainable.
 
-Every new anomaly adds to the complexity of the Foundation's containment ecosystem. Due to our limited scientific understanding, resources allocated to each anomaly are justified on an almost qualitative basis i.e. how well the research lead can argue their case, rather than the objective threat posed to humanity at large. Our dependence on the support from [[[https://scp-wiki.wikidot.com/scp-8447 | external]]] [[[https://scp-wiki.wikidot.com/scp-4951 | parties]]] further complicates our priorities, as they may lobby for the containment of certain anomalies to forward their interests. The result is the Foundation today, where each dollar spent is scrutinised by anyone who thinks it might hurt their own pockets. 
+Every new anomaly adds to the complexity of the Foundation's containment ecosystem. Due to our limited scientific understanding, resources allocated to each anomaly are justified on an almost qualitative basis i.e. how well the research lead can argue their case, rather than the objective threat posed to humanity at large. Our dependence on the support from [[a style="color:var(--darkColor)" href="https://scp-wiki.wikidot.com/scp-8447"]]external[[/a]] [[a style="color:var(--darkColor)" href="https://scp-wiki.wikidot.com/scp-4951"]]parties[[/a]] further complicates our priorities, as they may lobby for the containment of certain anomalies to forward their interests. The result is the Foundation today, where each dollar spent is scrutinised by anyone who thinks it might hurt their own pockets. 
 
-We propose a radical solution to alleviate this problem - the formation of the Department of Humanoid Anomaly Reversion (DHAR). 63% of known humanoid anomalies were once everyday people that drew the short end of the stick. The Foundation spends in excess of $150 billion a year to maintain their containment. DHAR seeks to neuter their anomalous properties and rehabilitate them as employees of the Foundation, and potentially as productive members of the wider society. We already have the [[[https://scp-wiki.wikidot.com/integration-program-hub | Integration Program]]]. Let's take it a step further.
+We propose a radical solution to alleviate this problem - the formation of the Department of Humanoid Anomaly Reversion (DHAR). 63% of known humanoid anomalies were once everyday people that drew the short end of the stick. The Foundation spends in excess of $150 billion a year to maintain their containment. DHAR seeks to neuter their anomalous properties and rehabilitate them as employees of the Foundation, and potentially as productive members of the wider society. We already have the [[a style="color:var(--darkColor)" href="[https://scp-wiki.wikidot.com/integration-program-hub"]]Integration Program[[/a]]. Let's take it a step further.
 
 @@@@
 @@@@
@@ -323,19 +323,19 @@ We expect reversion of most anomalous properties after 10 hours of exposure in t
 
 **Mitchell:** And this'll be your primary work site. State-of-the-art biosensors, artificial intelligence matrices, you name it.
 
-**Riley:** What about blah blah?
+**Riley:** What about mentorship? Do I get someone to show me the ropes?
 
-**Mitchell:** Especially blah blah.
+**Mitchell:** Oh yes, you'll get a dedicated mentor.
 
 //Snap snap snap.//
 
 **Riley:** Nice, I think I've got the gist of things. I must say, I didn't expect a private tour from the department head.
 
-**Mitchell:** Oh, err...that's because you're um, talented and-
+**Mitchell:** Ahh, err...that's because you're um, talented and-
 
 **Riley:** Don't tell me I'm the only applicant.
 
-**Mitchell:** Okay there were a resource procurement issue. Nothing for you to worry about.
+**Mitchell:** Okay there was a resource procurement issue. Nothing for you to worry about.
 
 //Snap snap.//
 
@@ -353,7 +353,7 @@ We expect reversion of most anomalous properties after 10 hours of exposure in t
 
 **Riley:** Uhh...is he the mentor you were talking about?
 
-**Mitchell:** You get used to it. He's worth your time, trust me.
+**Mitchell:** You'll get used to it. He's worth your time, trust me.
 
 //Avenlee paces towards the pair.//
 
@@ -389,10 +389,10 @@ We expect reversion of most anomalous properties after 10 hours of exposure in t
 
 [[include component:image-block | name=https://upload.wikimedia.org/wikipedia/commons/0/00/Standard_Model_of_Elementary_Particles.svg| width=80% | align=center | caption=Known elementary particles of baseline reality. ]]
 
-**Unified Theory of Matter:** [[[https://en.wikipedia.org/wiki/Standard_Model | The Standard Model]]] is regarded as the best description of baseline reality by the consensus of the global physics community. However, there are several phenomena unaccounted for by the Standard Model, such as:
+**Unified Theory of Matter:** The Standard Model is regarded as the best description of baseline reality by the consensus of the global physics community. However, there are several phenomena unaccounted for by the Standard Model, such as:
 
 * The abundance of standard baryonic matter over antimatter.
-* Gravitational orbits of stellar objects in the universe deviate from predictions based on observable matter. Mainstream science currently attributes these deviations to "dark matter."
+* Gravitational orbits of stellar objects in the observable universe deviate from predictions. Mainstream science currently attributes these deviations to "dark matter."
 * The existence of anomalies.
 
 The Foundation quantifies deviations in established physical laws using Humes. We posit that there exists a particle, which we name the //huon//, undetected by modern instruments, which would cover the deficiencies in the Standard Model. As a corollary of this paper, we provide evidence supporting that Hume fluctuations are a symptom or after-effect of the undiscovered //huon// particle.
@@ -467,6 +467,34 @@ The Foundation quantifies deviations in established physical laws using Humes. W
 [[/div]]
 
 
+[[div class="email"]]
+[[div class="tofrom"]]
+**To:** @@f.lorraine@scp.int; a.clarke6@scp.int; r.singer11@scp.int@@
+**From:** @@t.shorten2@scp.int@@
+**Subject:** July milestones
+**Attachment(s):** meeting_invite.ics
+[[/div]]
+----
+Hi all,
+
+Just setting up this call to touch base on our priorities for the next quarter. Agenda is as follows:
+
+# Disseminaton of our containment metrics
+# D-Class turnover
+# Internal employee transfers
+# Sentiments around the DHAR
+
+Looking forward to speaking with you all.
+
+@@@@
+@@@@
+= Secure, Contain, Protect
+[[>]]
+//- Dir. T. Shorten//
+[[/>]]
+[[/div]]
+
+
 [[div class="lightbox"]]
 [[=]]
 +++ Department of Humanoid Anomaly Reversion
@@ -488,7 +516,7 @@ Inspired by the parallels with EM fields, we examine the following methods for a
 ||~ Degaussing of EM fields ||~ Degaussing of Hume fields ||~ Discussion  ||
 || Overheating a magnet scatters electrons and breaks apart their orbital alignment. || We calibrate SRA's to a Hume level to at least 350% in excess of the subject's average Hume value. Saturating the subjects with Humes and then removing the artificial Hume field 'resets' the subject closer to the 1.00 Hume benchmark. || Depending on the subject, the saturation period can range from 3 hours to 25 months. Even for docile subjects, amplifying their abilities for this duration risks containment breach. ||
 || As above, repeatedly striking a magnet imparts enough kinetic energy to disturb electron alignment. || Terminate the subject. Elevated Hume fields disappear upon cell death in 93% of cases. || This is antithetical to the goal of this paper, to integrate anomalous humans into society.  ||
-|| Holding a magnet in an inverse magnetic field leads to its eventual demagnetisation. || Unlike magnetic fields, Humes have no concept of direction. However, Humes detected in the neighbourhood of the subject vary often, particularly when the subject is actively manifesting its anomalous properties. If each minute Humic upsurge is immediately countered with a localised sub-1.00 Hume field, theory predicts that the subject's average Hume field would converge towards 1.00. || The convergence asymptotically approaches 1.00 Humes. While complete anomaly reversion is not feasible with this approach, it is low-risk and would be suitable candidate for a proof of concept. ||
+|| Holding a magnet in an inverse magnetic field leads to its eventual demagnetisation. || Unlike magnetic fields, Humes have no concept of direction. However, Humes detected in the neighbourhood of the subject vary often, particularly when the subject is actively manifesting its anomalous properties. If each minute Humic upsurge is immediately countered with a localised sub-1.00 Hume field, theory predicts that the subject's average Hume field would converge towards 1.00. || The convergence asymptotically approaches 1.00 Humes. While total  reversion is not feasible with this approach, it is low-risk and would be suitable candidate for a proof of concept. ||
 
 [[/div]]
 
@@ -626,7 +654,7 @@ Inspired by the parallels with EM fields, we examine the following methods for a
 **Experiment log 8667.19:**The theory behind DHARPE rests on the assumption that //huons// exist. While attempts to directly observe //huons// have been unsuccessful, experimentation can provide empirical evidence for their existence. Our preliminary experiment inventory consists of:
 
 # 20 non-anomalous D-Class personnel are exposed to DHARPE. We expect the average Hume field of each individual to remain within the value of 1.00 ± 0.00001. 
-# If the above is successful, 10 consenting sapient humanoid anomalies would be exposed to DHARPE. We expect the average Hume field of each individual to remain within the value of 1.00 ± 0.1. 
+# If the above is successful, 10 consenting sapient humanoid anomalies would be exposed to DHARPE. We expect the average Hume field of each individual to converge towards the value of 1.00 ± 0.1. 
 # If the above is successful, we shall approach O5-██ to discuss rolling out the initiative to other sites.
 
 ----
@@ -702,6 +730,33 @@ Inspired by the parallels with EM fields, we examine the following methods for a
 [[/div]]
 
 
+[[div class="email"]]
+[[div class="tofrom"]]
+**To:** @@3fjw9ddwsa@tmpmail.com@@
+**From:** @@23fjf39390@tmpmail.com@@
+**Subject:** Re: Acquisition
+[[/div]]
+----
+Dear Director,
+
+The next event is scheduled in [REDACTED], Belarus. The auctioneer is expecting the following items to be delivered by Oct 18:
+
+* IWN45/N3OS8/4EGI5
+* FJW23/D93JD/J3KD9
+* 3JKMF/DKEK9/229ED
+
+To avoid complications, ensure that all items remain in a Grade II comatose state during transportation.
+
+Destroy this message upon receipt. If you have further queries, please respond to @@384fj3492@tmpmail.com@@. I look forward to our continued cooperation.
+
+@@@@
+@@@@
+[[>]]
+//- M. K. Darke//[[footnote]]Business magnate and private Foundation donor and lobbyist. Former heir to Marshall, Carter, and Dark.[[/footnote]]
+[[/>]]
+[[/div]]
+
+
 [[div class="blockquote"]]
 
 **Location:** Bioinformatics Laboratory, Research Sector 14, Site 19
@@ -726,7 +781,7 @@ Inspired by the parallels with EM fields, we examine the following methods for a
 
 **Riley:** Umm, so what brings you here Director Shorten?
 
-**Shorten:** Just looking for Director Mitchell, but she's kind of been evading me. Enough about her though, let's talk about you.
+**Shorten:** Just looking for Mitchell, but she's kind of been evading me. Enough about her though, let's talk about you.
 
 **Riley:** Huh? Me?
 
@@ -811,6 +866,24 @@ Inspired by the parallels with EM fields, we examine the following methods for a
 [[/div]]
 
 
+
+[[div class="email"]]
+[[div class="tofrom"]]
+**To:** 384fj3492@tmpmail.com
+**From:** 2jkckkxd33@tmpmail.com
+**Subject:** Re: Acquisition
+**Attachment(s):**[[span style="color:lightblue"]] █████ █████████ [[/span]]
+[[/div]]
+----
+Dear Mr. Darke,
+
+Regarding item FJW23/D93JD/J3KD9, it is currently being considered for neutralisation. I realise this would reduce its dollar value for your client, so I am taking steps to mitigate this issue. You'll hear from me again if there are any problems.
+
+Destroy this message upon receipt. If you have further queries, please respond to 33949fdah2d@tmpmail.com. I look forward to your continued support.
+
+[[/div]]
+
+
 [[div class="blockquote"]]
 
 **Location:** Microsoft Skype meeting
@@ -831,7 +904,7 @@ Inspired by the parallels with EM fields, we examine the following methods for a
 
 **Lorraine:** I apologise if I misunderstood, but I think you mentioned that the motivation behind DHAR was to integrate anomalies into society? Turning them into walking zombies doesn't seem aligned with that goal.
 
-**Mitchell:** Yes, it's- we've hit a hurdle. We plan to iterate on this on our initial design and reduce its side-effects.
+**Mitchell:** Yes, it's- we've hit a bit of a hurdle. We plan to iterate on this on our initial design and mitigate its side-effects.
 
 **Clarke:** How would the refinements work? It sounds like your design hinges on this theoretical //huon// particle. It's a shaky assumption to make.
 
@@ -845,13 +918,13 @@ Inspired by the parallels with EM fields, we examine the following methods for a
 
 = [27 minutes of discussion omitted.]
 
-**Lorraine:** You do realise that by cutting down the number of anomalies, we'll only reduce government's incentive to fund us.
+**Lorraine:** You do realise that by cutting down the number of anomalies, we'll only reduce the government's incentive to fund us.
 
 **Mitchell:** To be blunt, these arguments will lead to the same mistakes made by psychiatric hospitals in the civilian sphere. A lot of them only focus keeping them isolated from the wider community, rather than rehabilitation.
 
 **Singer:** Alright, let's say your proof of concept is successful. What do you suppose happens to displaced employees after their assigned skip is reverted? 
 
-**Mitchell:** We should be able to reassign them somewhere else. There's always pockets of workforce shortages around here.
+**Mitchell:** We should be able to reassign them elsewhere. There's always pockets of workforce shortages around here.
 
 **Singer:** Even if that were true-
 
@@ -877,7 +950,7 @@ Inspired by the parallels with EM fields, we examine the following methods for a
 
 **Moose:** I see where you're going with this. Dr. Wettle has a proven track record in his tenure, despite being anomalous.
 
-**Shorten:** I'm not sure Dr. Wettle is a good example of a candidate. There's been some talk around giving him a Thaumiel classification due to his effects on Site 43.
+**Shorten:** I'm not sure Dr. Wettle is a good example of a candidate. There's been some talk around giving him a Thaumiel classification due to his positive effects on Site 43.
 
 **Lorraine:** Also, this is just one example. How can you be confident that all of them would function well as staff? How can you be sure an anomaly will remain compliant and obey orders?
 
@@ -910,7 +983,7 @@ Inspired by the parallels with EM fields, we examine the following methods for a
 
 //Director Mitchell enters the lab.//
 
-**Riley:** Hey Kait, I was beginning to think you won't show up.
+**Riley:** I was beginning to think you won't show up.
 
 **Mitchell:** Yeah, sorry. I was being pinged left and right. Where's Alex?
 
@@ -953,7 +1026,7 @@ Inspired by the parallels with EM fields, we examine the following methods for a
 
 **Avenlee:** Medication doesn't work for me.
 
-**Moose:** Yes, that's right. Well, hang in there. We're still depending on you for the DHARPE project.
+**Moose:** Yes, that's right. Tell me if you need help with anything. We're still depending on you for the DHARPE project.
 
 **Avenlee:** I will try.
 
@@ -985,7 +1058,7 @@ Inspired by the parallels with EM fields, we examine the following methods for a
 
 **Location:** Room 322, Residential Sector 11
 
-**Context:** Containment update
+**Context:** Dr. Avenlee is on sick leave.
 
 ----
 
@@ -1051,22 +1124,43 @@ Inspired by the parallels with EM fields, we examine the following methods for a
 
 //Avenlee loses balance and collapses.//
 
-**Avenlee:** Couldn't save it in time...
+**Avenlee:** Out of time...
 
 //Avenlee loses consciousness.//
 
-----
-
-**Addendum:** SCP-8667 has been moved to a standard containment cell following this incident.
-
 [[/div]]
+
 
 [[div class="email"]]
 [[div class="tofrom"]]
-**To:** site19staff@scp.int[Distribution List]
-**From:** t.shorten2@scp.int
-**cc:** j.riley17@scp.int
-**Subject:** A message from Shorten || 2017 Reflections
+**To:** @@t.shorten2@scp.int@@
+**From:** @@will.bryant2@cca.int@@
+**Subject:** Re: DHARPE trial roll-out
+**Attachment(s):** acquisition_contract.pdf
+[[/div]]
+----
+Dear Mr. Shorten,
+
+We have completed the initial trials across across eight correctional facilities. Of the 112 inmates trialled, 110 have demonstrated increased compliance. We've had to terminate the other two; one has been reduced to a catatonic state, while the other has developed abilities to [REDACTED].
+
+Our leadership team supports the initiative to introduce the DHARPE to our other facilities. This should help suppress public criticism that we "fail to rehabilitate" our inmates. 
+
+Attached is an order for sixteen more of these machines. I imagine you will find these terms quite favourable. As a show of good faith, I've just given sign-off for a shipment of a further 300 inmates for your so-called "D-Class".
+
+@@@@
+Best,
+[[>]]
+//- Will Bryant//
+[[/>]]
+[[/div]]
+
+
+[[div class="email"]]
+[[div class="tofrom"]]
+**To:** @@site19staff@scp.int[Distribution List]@@
+**From:** @@t.shorten2@scp.int@@
+**cc:** @@j.riley17@scp.int@@
+**Subject:** A message from Shorten || 2016 Reflections
 [[/div]]
 ----
 Hola~
@@ -1085,137 +1179,52 @@ Please don't hesitate reach out to me if you have any further enquiries about th
 [[/div]]
 
 
-
 [[div class="blockquote"]]
-
-
 **Location:** Site Director Office, Office Sector 2, Site 19
 
 **Context:** One-on-one catchup
 
 ----
 
-**Moose:** I must admit I was a bit surprised when you booked this meeting with me. Your Shorten's direct report, not mine.
+**Moose:** Welcome back director, did you enjoy your break?
 
-**Riley:** I got the email that Kai- I mean, Director Mitchell's coming back next week. Is she taking over as the lead of the DHC?
+**Mitchell:** Not hardly. When am I going to be reinstated back to the DHAR?
 
-**Moose:** Isn't Shorten keeping you happy? You got promoted, and he's actively giving you credit.
+**Moose:** I've booked a meeting next week to discuss that, Mitchell.
 
-**Riley:** I just. Umm. I just don't agree with his way of thinking. And he's plastic. Working with Mitchell felt a lot more genuine.
-
-**Moose:** We're still...having an internal discussion about Mitchell.
-
-**Riley:** What's there to discuss? Shorten just came in and bastardised the whole thing. Mitchell should be able to reel us back on track.
-
-**Moose:** Alright. What I'm about to tell you, you need to promise me to keep it to yourself, at least for the next couple of weeks.
-
-**Riley:** I understand.
+**Mitchell:** What's there to discuss? Shorten just came in and bastardised the whole thing. I'll reel us back on track.
 
 **Moose:** Director Shorten has entrenched the DHC pretty deeply into the Foundation's dependencies. Most departments are very happy with the extra resources he's imparted for them.
 
-**Riley:** Yeah but- isn't this funding just a bandaid over the problems in this site? We're still building new containment facilities because there's too many anomalies.
+**Mitchell:** Yeah but- this funding is just a bandaid over the problems in this site- no, the whole organisation. We're still building new containment facilities just because there's too many anomalies.
 
-**Moose:** You've heard his spiel at the All Hands right? He almost has site-wide support. If I publicly denounce him, even //my// position would be threatened.
+**Moose:** You've heard his spiel at the All Hands right? He almost has site-wide support. If I openly denounce him, even //my// position would be threatened.
 
-**Riley:** 
+**Mitchell:** Oh? I didn't realise you cared much for your title. Whatever happened to the 'greater good'?
 
-[[/div]]
+**Moose:** Don't pretend that your DHAR project is selfless either. I know about Alex's condition.
 
+**Mitchell:** I know you know. How's he faring? My clearance hasn't been fully reinstated yet, so I haven't been able to look through his file.
 
-[[div class="email"]]
-[[div class="tofrom"]]
-**To:** f.lorraine@scp.int; a.clarke6@scp.int; r.singer11@scp.int, t.moose@scp.int
-**From:** t.shorten2@scp.int
-**Subject:** July milestones
-**Attachment(s):** meeting_invite.ics
-[[/div]]
-----
-Hi all,
+**Moose:** We're still determining the correlation of his tumour. If it's-
 
-Just setting up this call to touch base on our priorities for the next quarter. Agenda is as follows:
+**Mitchell:** I don't care about that. How is //he// doing?
 
-# Disseminaton of our containment metrics
-# D-Class turnover
-# Internal employee transfers
-# Handling the DHAR
+**Moose:** He's comatose. Stable, but unconscious.
 
-Looking forward to speaking with you all.
+**Mitchell:** When I left, there were still a lot of refinements planned for the DHARPE. It's going to be a while before we can cure him.
 
-@@@@
-@@@@
-= Secure, Contain, Protect
-[[>]]
-//- Dir. T. Shorten//
-[[/>]]
-[[/div]]
+**Moose:** Shorten's actually been looking to dumb down your DHARPE machine in order to mass-produce it. Riley's been getting a lot of praise in that regard. I think she's even starting to appreciate Shorten. //Chuckles.//
 
+**Mitchell:** Then I'll just have to reel her back on track too. With Alex gone, she's the one with the most technical know-how.
 
-[[div class="email"]]
-[[div class="tofrom"]]
-**To:** 3fjw9ddwsa@tmpmail.com
-**From:** 23fjf39390@tmpmail.com
-**Subject:** Re: Acquisition
-**Attachment(s):**[[span style="color:lightblue"]] █████ █████████ [[/span]]
-[[/div]]
-----
-Dear Director,
+**Moose:** Whatever you do, you'll need to be quick. Some directors are pushing to reclass Avenlee as Thaumiel, which would make it much harder to request for his neutralisation.
 
-The next event is scheduled in [REDACTED], Belarus. The auctioneer is expecting the following items to be delivered by Oct 18:
+**Mitchell:** Pieces of shit.
 
-* IWN45/N3OS8/4EGI5
-* FJW23/D93JD/J3KD9
-* 3JKMF/DKEK9/229ED
+**Moose:** I'll see what I can do to put the DHAR back into your hands. It's going to be an uphill battle.
 
-To avoid complications, ensure that all items remain in a Grade II comatose state during transportation.
-
-Destroy this message upon receipt. If you have further queries, please respond to 384fj3492@tmpmail.com. I look forward to our continued cooperation.
-
-@@@@
-@@@@
-[[>]]
-//- M. K. Darke//
-[[/>]]
-[[/div]]
-
-[[div class="email"]]
-[[div class="tofrom"]]
-**To:** 384fj3492@tmpmail.com
-**From:** 2jkckkxd33@tmpmail.com
-**Subject:** Re: Acquisition
-**Attachment(s):**[[span style="color:lightblue"]] █████ █████████ [[/span]]
-[[/div]]
-----
-Dear Mr. Darke,
-
-Regarding item FJW23/D93JD/J3KD9, it is currently being considered for neutralisation. I realise this would reduce its dollar value for your client, so I am taking steps to mitigate this issue. You'll hear from me again if there are any problems.
-
-Destroy this message upon receipt. If you have further queries, please respond to 33949fdah2d@tmpmail.com. I look forward to your continued support.
-
-[[/div]]
-
-
-[[div class="email"]]
-[[div class="tofrom"]]
-**To:** t.shorten2@scp.int
-**From:** will.bryant2@cca.int
-**Subject:** Re: DHARPE trial roll-out
-**Attachment(s):** acquisition_contract.pdf
-[[/div]]
-----
-Dear Mr. Shorten,
-
-We have completed the initial trials across across eight correctional facilities. Of the 112 inmates trialled, 110 have demonstrated increased compliance. We've had to terminate the other two; one has been reduced to a catatonic state, while the other has developed abilities to [REDACTED].
-
-Our leadership team supports the initiative to introduce the DHARPE to our other facilities. This should help suppress public criticism that we "fail to rehabilitate" our inmates. 
-
-Attached is an order for sixteen more of these machines. I imagine you will find these terms quite favourable. As a show of good faith, I've just given sign-off for a shipment of a further 300 inmates for your so-called "D-Class".
-
-@@@@
-@@@@
-Best,
-[[>]]
-//- Will Bryant//
-[[/>]]
+**Mitchell:** Let's give it our best. Always forward, never scared, Moose.
 
 [[/div]]
 
@@ -1237,18 +1246,8 @@ Best,
 [[include :scp-wiki:component:license-box-end]]
 
 
+[[div class="lightbox"]]
+Hi Dr. Avenlee! Merry Christmas and I hope you enjoyed reading this.
 
-
-
-Riley enquires about Avenlee's past, and reveals his childhood trauma with SCP-4666.
-
-
-
-**Avenlee:** When I was your age, I was 26.
-**Riley**: Sir, I know how old I am.
-
-**Riley:** By the way, how old is Dr. Avenlee?
-**Mitchell:** 28. Why do you ask?
-**Riley:** No reason.
-
-
+I originally planned to include a scene where Riley enquires about Avenlee's past and his childhood trauma with SCP-4666. She learns that he survived the Weissnacht event because of his anomalous abilities. But then I couldn't find a place to fit this in nicely.
+[[/div]]
