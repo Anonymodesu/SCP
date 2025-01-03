@@ -26,12 +26,6 @@
 
 [[/module]]
 
-[[module css]]
-a#history-button.btn, a#files-button.btn {
-display: none;
-}
-[[/module]]
-
 [[>]]
 [[module Rate]]
 [[/>]]
@@ -66,7 +60,7 @@ OPENING DOCUMENT...
 |risk-class= notice
 ]]
 
-**Special Containment Procedures:** SCP-8667 is contained in a standard humanoid containment cell. It is fed via a --intravenous-- nasogastric tube, and its waste products are extracted via two catheters.
+**Special Containment Procedures:** --SCP-8667 is free to roam Site-19 and enter areas requiring Level 3 Clearance or below.-- SCP-8667 is contained in a standard humanoid containment cell. It is fed via a --intravenous-- nasogastric tube, and its waste products are extracted via two catheters.
 
 A Class III Thaumaturgic Biometric Apparatus is configured to monitor SCP-8667's vital signs:
 
@@ -78,7 +72,7 @@ A Class III Thaumaturgic Biometric Apparatus is configured to monitor SCP-8667's
 
 In the event where any parameter deviates outside of historical trends, assigned personnel must notify staff of Level 3 clearance or above.
 
-**Description:** SCP-8667 is a conceptually invulnerable humanoid, unable to be directly harmed. However, it has been observed to spontaneously develop health conditions with no established pattern.
+**Description:** SCP-8667 is a conceptually invulnerable humanoid, unable to be directly harmed. However, it has been observed to spontaneously develop health conditions with no established pattern. It has remained in a comatose state since 20/01/2017.
 
 **Addendum 8667.1:** The following is a representative sample of the ailments suffered by SCP-8667. For the complete database, consult your supervisor.
 
@@ -128,7 +122,7 @@ OPENING DOCUMENT...
 |risk-class= warning
 ]]
 
-**Special Containment Procedures:** SCP-8667 is contained in a standard humanoid containment cell. It is fed via a --intravenous-- nasogastric tube, and its waste products are extracted via two catheters.
+**Special Containment Procedures:** --SCP-8667 is free to roam Site-19 and enter areas requiring Level 3 Clearance or below.-- SCP-8667 is contained in a standard humanoid containment cell. It is fed via a --intravenous-- nasogastric tube, and its waste products are extracted via two catheters.
 
 A Class III Thaumaturgic Biometric Apparatus is configured to monitor SCP-8667's vital signs:
 
@@ -140,7 +134,7 @@ A Class III Thaumaturgic Biometric Apparatus is configured to monitor SCP-8667's
 
 In the event where any parameter deviates outside of historical trends, assigned personnel must notify staff of Level 4 Clearance of above.
 
-**Description:** SCP-8667 is a sapient humanoid, formerly known as [REDACTED]. While its Hume field fluctuates in the bounds of 16.97 ± 0.83, SCP-8667 is biologically identical to a human. It has remained in a comatose state since 20/01/2017.
+**Description:** SCP-8667 is a sapient humanoid, also known as [REDACTED]. While its Hume field fluctuates in the bounds of 16.97 ± 0.83, SCP-8667 is biologically identical to a human. It has remained in a comatose state since 20/01/2017.
 
 The health conditions of SCP-8667 correlate with natural and man-made disasters. Statistical analysis is unable to infer with confidence, whether these correlations are aligned with the wellbeing of Earth's overarching biosphere, or aligned strictly with the wellbeing of humanity.
 
@@ -208,7 +202,33 @@ Further attempts are postponed until further notice.
 [[/=]]
 
 
-**Addendum 8667.3:** Events leading to its current containment protocol
+**Addendum 8667.3:** Events leading to SCP-8667's current containment protocol
+
+
+[[div class="email"]]
+[[div class="tofrom"]]
+**To:** @@t.moose@scp.int@@
+**From:** @@k.mitchell2@scp.int@@
+**cc:** @@a.avenlee@scp.int@@
+**Subject:** Re: Anomaly reversion trials
+**Attachment(s):** dhar_proposal.pdf; scp_7000.pdf; scp_7198.pdf; scp_8667.pdf;
+[and 7 other attachments]
+[[/div]]
+----
+Hi Director Moose,
+
+As requested, please see the attached consent forms. Ten anomalies have expressed willingness to have their anomalous properties neutralised. I've scheduled an Ethics Committee liaison to hold interviews with them next week, though these are mostly a formality and we can expect them to proceed without issue.
+
+For your convenience, I've also included a copy of my revised proposal for the DHAR. I'll be ready to brief the other directors in our upcoming meeting. Let me know your thoughts.
+
+@@@@
+@@@@
+= Secure, Contain, Protect
+[[>]]
+//- Dir. K. Mitchell//
+[[/>]]
+[[/div]]
+
 
 [[div class="lightbox"]]
 [[=]]
@@ -254,23 +274,25 @@ We propose a radical solution to alleviate this problem - the formation of the D
 
 //Silence.//
 
-**Mitchell:** Alright, I'll hand over to our next speaker, Director Shorten-
+**Moose:** Alright, let's hand over to our next speaker, Director Shorten-
 
-**Shorten:** //Cough.// Excuse me director. We've only neutralised anomalies on a case-by-case basis so far. A general, blanket strategy is unheard of. I'm curious to hear how you got sign-off on this.
+**Shorten:** //Cough.// Excuse me Director Mitchell. We've only neutralised anomalies on a case-by-case basis so far. A general, blanket strategy is unheard of. I'm curious to hear how you got sign-off on this.
 
 **Lorraine:** I'm afraid this might not be entirely aligned with our modus operandi, to secure and contain.
 
 **Mitchell:** Thank you, Shorten, Lorraine, for your concern. Rest assured, I've moved through the appropriate channels for approvals. Besides, we all have doctorates here. Disrupting the standard should come naturally to us.
 
-**Moose:** Piggybacking on Shorten's question, each humanoid's properties are unique and varied. It's surprising to hear there exists a universal neutraliation mechanism.
+**Singer:** Piggybacking on Shorten's question, each humanoid's properties are unique and varied. It's surprising to hear there exists a universal neutralisation mechanism.
 
-**Mitchell:** Thank you Moose. We have a proof of concept in development. We'll be ready to present it once we've ascertained its reliability.
+**Mitchell:** Thank you Singer. We have a proof of concept in development. We'll be ready to present it once we've ascertained its reliability.
 
 **Shorten:** Would you mind explaining how the PoC would work? I think I speak for everyone when I say that we're all very interested.
 
-**Mitchell:** Unfortunately, properly covering the finer details would take some time, and this meeting is already behind schedule. Director Shorten, if you would.
+**Mitchell:** Unfortunately, properly covering the finer details would take some time, and this meeting is already behind schedule.
 
-**Shorten:** ...thank you, Director Mitchell.
+**Moose:** Director Shorten, if you would.
+
+**Shorten:** ...of course, Director Moose.
 
 //Shorten moves towards the podium.//
 
@@ -359,9 +381,11 @@ We expect reversion of most anomalous properties after 10 hours of exposure in t
 
 **Avenlee:** I can introduce myself, Kait.
 
-**Mitchell:** Oh hey Alex! This is Dr. Jennifer Riley, junior researcher, PhD. in genomics. She'll be joining us shortly.
+**Mitchell:** Oh hey Alex! This is Dr. Jennifer Riley, junior researcher, PhD. in physcology. She'll be joining us shortly.
 
 **Avenlee:** Hello Jennifer. How was the directors meeting?
+
+**Riley:** What directors meet-
 
 **Mitchell:** Eh. Went as well as it could've.
 
@@ -450,9 +474,9 @@ The Foundation quantifies deviations in established physical laws using Humes. W
 
 **Mitchell:** Yes, I know. We're heading towards a budget deficit this year.
 
-**Moose:** Overexpenditure, I can deal with. What I'm more worried about is employee morale.
+**Moose:** Overexpenditure, I can deal with. As the director for the entire site, I'm more worried about employee morale.
 
-**Mitchell:** I understand where you're coming from. A department's funding correlates with the number of anomalies they need to contain. Neutralising them isn't exactly in others' best interests.
+**Mitchell:** Ahhh...right. A department's funding correlates with the number of anomalies they need to contain. Neutralising them isn't exactly in their best interests.
 
 **Moose:** Yes, and we risk increasing employee redundancy. No-one wants to be out of a job when their assigned skip disappears.
 
@@ -636,7 +660,7 @@ Inspired by the parallels with EM fields, we examine the following methods for a
 
 **Riley:** That sort of explains why he's...the way he is.
 
-**Mitchell:** Yeah go easy on him. Alex hasn't had much in the way of friends. At least those of his age.
+**Mitchell:** Yeah go easy on him. Alex hasn't had much in the way of friends. This place isn't exactly forgiving, especially for people like him.
 
 **Riley:** How did he get here? I didn't know the Foundation adopted kids.
 
@@ -681,7 +705,7 @@ Inspired by the parallels with EM fields, we examine the following methods for a
 
 //Riley adjusts a few knobs and valves on the control panel. The attached SRA's on DHARPE  gradually switch off.//
 
-**Riley:** Isn't our demo next week? What's going to happen to us if we have nothing to show?
+**Riley:** Isn't our demo next week? What's going to happen if we have nothing to show?
 
 **Avenlee:** It will be ok. Kait has her Mitchell magic. She can protect us from the other directors.
 
@@ -689,7 +713,7 @@ Inspired by the parallels with EM fields, we examine the following methods for a
 
 //DHARPE's chamber door opens.//
 
-**Mitchell:** Let's bring in the next D-Class when Alex is feeling better. Maybe this guy's an outlier.
+**Mitchell:** Let's bring in the next D-Class when Alex is feeling better. Maybe 55043's an outlier.
 
 **Riley:** //Ahem.// D-55403, please return to your quarters. The security guard outside will escort you.
 
@@ -817,7 +841,7 @@ Destroy this message upon receipt. If you have further queries, please respond t
 
 **Avenlee:** Yes. I arrived at the same conclusion. It's possible that sapience is caused by //huons//.
 
-**Riley:** I just thought that self-awareness isn't explained by mainstream science, so it fits into the //huon// framework nicely.
+**Riley:** I was thinking that self-awareness isn't explained by mainstream science, so it fits into the //huon// framework nicely.
 
 **Avenlee:** I've been working on a new schematic for the DHARPE. It should be able to keep the Hume field around the brain above a healthy threshold.
 
@@ -875,7 +899,7 @@ Destroy this message upon receipt. If you have further queries, please respond t
 **Attachment(s):**[[span style="color:lightblue"]] █████ █████████ [[/span]]
 [[/div]]
 ----
-Dear Mr. Darke,
+Dear Ms. Darke,
 
 Regarding item FJW23/D93JD/J3KD9, it is currently being considered for neutralisation. I realise this would reduce its dollar value for your client, so I am taking steps to resolve this issue. You'll hear from me again if there are any problems.
 
@@ -914,9 +938,9 @@ Destroy this message upon receipt. If you have further queries, please respond t
 
 **Shorten:** And I suppose you believe your Hume theory to be just as revolutionary? That seems presumptuous.
 
-**Mitchell:** That's why we've only allocated resources sufficient for a proof of concept. We'll disband this department if the PoC does not bear fruit. 420,000 is a drop in the ocean compared Site-19's overall expenditure.
+**Mitchell:** That's why we've only allocated resources sufficient for a proof of concept. We'll disband this department if the PoC does not bear fruit. 420,000 is a drop in the ocean compared Site-19's net expenditure.
 
-= [27 minutes of discussion omitted.]
+= [ 27 minutes of discussion omitted. ]
 
 **Lorraine:** You do realise that by cutting down the number of anomalies, we'll only reduce the government's incentive to fund us.
 
@@ -924,7 +948,7 @@ Destroy this message upon receipt. If you have further queries, please respond t
 
 **Singer:** Alright, let's say your proof of concept is successful. What do you suppose happens to displaced employees after their assigned skip is reverted? 
 
-**Mitchell:** We should be able to reassign them elsewhere. There's always pockets of workforce shortages around here.
+**Mitchell:** We should be able to reassign them elsewhere. There's always pockets of workforce shortage around here.
 
 **Singer:** Even if that were true-
 
@@ -950,7 +974,7 @@ Destroy this message upon receipt. If you have further queries, please respond t
 
 **Moose:** I see where you're going with this. Dr. Wettle has a proven track record in his tenure, despite being anomalous.
 
-**Shorten:** I'm not sure Dr. Wettle is a good example of a candidate. There's been some talk around giving him a Thaumiel classification due to his positive effects on Site-43.
+**Shorten:** I'm not sure Dr. Wettle is a good example of a candidate. There's been some talk around giving him a Thaumiel classification due to his positive effects on Site-43's productivity.
 
 **Lorraine:** Also, this is just one example. How can you be confident that all of them would function well as staff? How can you be sure an anomaly will remain compliant and obey orders?
 
@@ -958,7 +982,7 @@ Destroy this message upon receipt. If you have further queries, please respond t
 
 **Clarke:** There's also the cost of upskilling the anomaly to work in whichever position we give to it.
 
-**Mitchell:** Yes, definitely. However, this cost would pay for itself once they become a self-sufficient, productive employee.
+**Mitchell:** Yes, but if we give them the right environment to work in, this cost would pay for itself once they become a self-sufficient, productive employee.
 
 = [ 26 minutes of discussion omitted ]
 
@@ -974,6 +998,32 @@ Destroy this message upon receipt. If you have further queries, please respond t
 
 = [ 20 minutes of discussion omitted ]
 
+[[/div]]
+
+
+[[div class="email"]]
+[[div class="tofrom"]]
+**To:** @@k.mitchell2@scp.int@@
+**From:** @@g.zehen@scp.int@@
+**cc:** @@t.moose@scp.int@@
+**Subject:** Re: Reversion of SCP-7198
+[[/div]]
+----
+Dear Director Mitchell,
+
+Apologies for not getting back to you sooner; I've just returned from sabbatical. My understanding is that in my absence, Director Moose has cleared [[[https://scp-wiki.wikidot.com/scp-7198 | SCP-7198]]] for experimentation within the DHAR.
+
+Please reconsider neutralising it.
+
+The flesh of SCP-7198 has intrinsic physical and mental restorative effects. It has already been trialled in select MTF assignments and has been well-received by our agents. Moreover, my liaisons from the U.S. pharmaceutical industry have expressed interest in embedding 7198 material into the public sector. Greenfield drug innovation would improve shareholder confidence in those companies, and in turn, cement them as reliable sponsors for the Foundation.
+
+Although I agree that the extraction process is inhumane, my staff have reported that SCP-7198 is acclimating to the process, and that it's been convinced it's serving the good of humanity. That said, I can sympathise with the goals behind your department. If you like, I can refer you to other candidates for your experiments and put in a good word for you.
+
+@@@@
+Kind regards,
+[[>]]
+//- Dir. G. Zehen//
+[[/>]]
 [[/div]]
 
 
@@ -1011,6 +1061,26 @@ Destroy this message upon receipt. If you have further queries, please respond t
 
 **Mitchell:** Because of a "lack of progress", I'm being placed on administrative leave.
 
+[[/div]]
+
+
+[[div class="email"]]
+[[div class="tofrom"]]
+**To:** @@g.zehen@scp.int@@
+**From:** @@t.moose@scp.int@@
+**Subject:** Re: Reversion of SCP-7198
+[[/div]]
+----
+Dear Director Zehen,
+
+Your concerns are noted. Let's discuss at the next directors meeting.
+Just FYI, the DHAR might be restructured soon, and consequently, the neutralisation of SCP-7198 is on hold.
+
+@@@@
+Regards,
+[[>]]
+//- Site Dir. T. Moose//
+[[/>]]
 [[/div]]
 
 
@@ -1193,7 +1263,7 @@ Best,
 ----
 Hola~
 
-Thank you to everyone who attended the Site 19 All Hands yesterday. I am both thrilled and humbled by the positive reception from fellow staff. Like some of you may know, the Department of Humanoid Anomaly Reversion has been rebranded as the Department of Humanoid Correction (DHC). Despite our short tenure, the DHC has already strengthened ties with our sponsors, and improved the working efficiency of our D-Class personnel. While the DHAR has faced challenges during its inception, I would like to thank Dr. Riley for laying the groundwork and collaborating with me to make the DHC a great success.
+Thank you to everyone who attended the Site-19 All Hands yesterday. I am both thrilled and humbled by the positive reception from fellow staff. Like some of you may know, the Department of Humanoid Anomaly Reversion has been rebranded as the Department of Humanoid Correction (DHC). Despite our short tenure, the DHC has already strengthened ties with our sponsors, and improved the working efficiency of our D-Class personnel. While the DHAR has faced challenges during its inception, I would like to thank Dr. Riley for laying the groundwork and collaborating with me to make the DHC a great success.
 
 Please don't hesitate reach out to me if you have any further enquiries about the DHC. I am filled with excitement and optimism about our journey ahead.
 
@@ -1214,7 +1284,7 @@ Please don't hesitate reach out to me if you have any further enquiries about th
 
 ----
 
-**Moose:** Welcome back director, did you enjoy your break?
+**Moose:** Welcome back Kaitlyn, did you enjoy your break?
 
 **Mitchell:** Not hardly. When am I going to be reinstated back to the DHAR?
 
@@ -1230,9 +1300,9 @@ Please don't hesitate reach out to me if you have any further enquiries about th
 
 **Mitchell:** Oh? I didn't realise you cared much for your title. Whatever happened to the 'greater good'?
 
-**Moose:** Don't pretend that your DHAR project is selfless either. I know about Alex's condition.
+**Moose:** Don't pretend that your DHAR project is selfless either. You only started the department to help your precious Alex.
 
-**Mitchell:** I know you know. How's he faring? My clearance hasn't been fully reinstated yet, so I haven't been able to look through his file.
+**Mitchell:** How's he faring? My clearance hasn't been fully reinstated yet, so I haven't been able to look through his file.
 
 **Moose:** We're still determining the correlation of his tumour. It'll become a matter for the O5's if it's-
 
