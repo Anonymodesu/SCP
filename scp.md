@@ -132,92 +132,107 @@ Puns:
 * Hypothermia / Hyperthermia
 
 ---
+Employee promotion panel - Dr. Y. Nations
 
-SCP is a humanoid that reflects the wellbeing of humanity.
-It is introduced as an immortal, invulnerable humanoid with extremely slow metabolism. 
-It has observed to succumb to the following symptoms:
-Kennedy assasination - minor headache
-CFC ozone depletion - dry skin
-Pandemics - related disease
-World wars - overactive immune diseases (Multiple Sclerosis?)
-Global warming - fever
-Chernobyl/Fukushima nuclear disaster - ulcers?
-Great Chinese Famine - Lost a few kgs of weight.
+Nations elaborates the discovery of the SCP
 
-The symptoms are first reported to have been caused by no observable influence and somehow recover naturally on their own.
-A document requiring higher clearance reveals the symptom's correlation with disasters.
+Explain how you've achieved the three princples of: 
 
-End of article - developing cancer tumour with unknown reason
-Classification changes to Thaumiel.
+Secure: Heal kidney stones
 
-Dialogue between SCP-4043 and this SCP.
-It speaks with SCP-179 and expresses its distaste for humanity's mistreatment and shortsightedness.
+Contain: Settle employee disputes
 
-Article ia a metaphor for humanity's understanding of its effects to the environment.
+Protect: Interrogate rival organisations
 
 ---
 
-**Seeking Greenlights:** Yes
-
-**Page Type:** SCP Article
-
-**Genre:** Comedy
-
-**Elevator Pitch:** The SCP eliminates restroom etiquette. The article would the amusing and unsettling consequences of it
-
-**Central Narrative:** 
-
-Conprocs involve the surveillance of high-traffic public restrooms and Foundation restrooms. Neutralisation methods include "Operation Dehydration", which is only mentioned, and its details are revealed in addenda.
-
-The description is brief, and only explains some fundamental properties of the SCP:
-* The SCP is anomalous water that once ingested, compels people in restrooms to use adjacent toilets, engage in pleasant conversation and overshare their personal information.
-* The SCP is neutralised if it attempts to manifest between people who cant communicate. This will hopefully make some of the conprocs click for the reader.
- 
-
-General tonal progression of the incident logs is comedic -> unsettling -> horror. Examples of logs:
-* Utility provided by the SCP, such as resolving disputes and interrogation of operatives from rival organisations
-* Dangers of the SCP, such as threatening the veil, and causing Foundation executives to discuss confidential information in restrooms
-* "Operation Dehydration" is elaborated on. Affected civilians would be moved to a Foundation facility, and instructed to drink normal water and urinate over several days until the SCP is drained from their body. The SCP is neutralised if the people in the restroom are unable to verbally communicate, so a D-Class with a different language background would be urinating alongside the civilian.
-* A town with a localised water cycle has excessive quantities of the SCP, where Operation Dehydration isn't enough to save it. The Foundation deems it to be a lost cause.
-
-The ending suggests the SCP to be created by SCP-7939, for espionage before taking over humanity.
-
-
-Outline: 
-Conprocs are primarily via mass surveillance in restrooms and filtration at water treatment plants. Operation Hydration is referred to in relation to a language barrier, but it's not explained in detail. To help hook the reader, the conprocs also refer to some bizarre methods, like installing tasers in Foundation restrooms and advertising the SCP to infants.
-
-The description explains some fundamental properties of the SCP:
-* The SCP is anomalous water that once ingested, compels people in restrooms to use adjacent toilets, engage in pleasant conversation and overshare their personal information.
-* The SCP is neutralised if it attempts to manifest between people who cant communicate. This will hopefully make some of the conprocs click for the reader.
-
-Incident logs are numbered with large numbers to indicate that a lot of people have been affected. General tonal progression is comedic -> unsettling -> horror. Some of the logs mention that the affected people are sent off for Operation Dehydration.
-* Light-hearted incident logs are interspersed throughout the article, but appear more in the beginning. They include:
-  * A woman noticing her substantial urine flow despite being pregnant
-  * News excerpt suggesting the SCP caused the acquisition of Twitter by Musk.
-  * Altercation between two people in a restroom. A 3rd party affected by the SCP walks in, and they resolve their dispute.
-  * The Foundation using this SCP to interrogate a Chaos Insurgency executive
-* Unsettling incident logs include:
-  * More people than the available toilets enter a restroom. People without a toilet will stare at and wait for urinating individuals to finish before joining in.
-  * Foundation employee discussing an infohazard with their niece. They maintain a pleasant conversation even as the infohazard takes hold of them.
-  * Multiple people forced to have a long pleasant conversation in a tropical environment, despite heat stroke.
-
-"Operation Dehydration" is elaborated on. Affected people would be moved to a Foundation facility, and instructed to drink normal water and urinate until the SCP is drained from their body. A D-Class with a different language background would be urinating alongside them. The explanation also hints that the SCP was a lot more prevalent before and this procedure is the most efficient way to neutralise it. 
-* Immediately before this explanation, there would be an audio log showing an affected Foundation executive reluctantly agreeing to this operation.
-* An educational video log is provided as a representative enactment of "Operation Dehydration". The log shows that the civilian's urination is precisely measured, and that the process would repeat over several days.
-
-An incident log describes how a localised water cycle has exacerbated the SCP's effects on a small town. The SCP composes a large fraction of the water in each resident's body. The log shows how this compels residents to seek out populated restrooms, and they eventually become unwilling to pee by themselves. The Foundation attempts to save the town, but eventually deems it to be a lost cause.
-
-An experiment log on a D-Class, where the SCP comprises most of the water in their body. The D-Class is physically unable to pee. The Foundation forces them to ingest more of the SCP. This ruptures their organs from the water pressure, but I'll redact this to leave this up to the reader's imagination.
-
-A video log suggests the SCP to be created by SCP-7939, for espionage before taking over humanity. I've consulted the author of SCP-7939 to check if this fits well into that canon.
-
-Hi, I hope you enjoyed reading my first article. My browser history is now tainted with questionable research topics.
-
-1. Does the tonal shift into horror work for you?
-1. I've minimised the info-dumping, but does anything not make sense?
-1. Does the dialogue feel flat, even after taking into consideration that they are affected by the SCP?
-1. Are the urine puns too much?
-
-----
 
 SCP that blows up bureacratic processes and makes people say corporate word salad
+/Strangler fig? to progressively eliminate the bureacracy.
+
+---
+
+Time travel romance. Chaos theory makes time travel predictions less and less reliable.
+
+---
+
+SCP that needs to be continuously rewritten to correct imperfections.
+
+It's a conceptual cat that lives in digital media. It's confined to its document. It's given images of a tree, pidgeon, mouse and a ball to play with.
+
+Cat must remain with Researcher Malloran forever.
+
+Parody of https://scp-wiki.wikidot.com/scp-3999
+
+---
+
+Groundskeeper SCP: https://www.youtube.com/watch?v=rz0wjVrIhS0
+Teleports around the planet cleaning up stuff thanklessly.
+
+---
+
+Expunge my ass.
+
+If you say so.
+
+Shit.
+
+Well, you'll be having trouble with that.
+
+https://en.wikipedia.org/wiki/Buttocks
+
+SCP is a perverted reality bender from SCP-8008 who prefers butts over boobs, and can only remove people's asses. Danger is the loss of butt muscles, required for mobility.
+After trying to contain it, the MTF agent loses her buttocks.
+The reality bender prefers female-presenting buttocks.
+Her forced lifestyle changes causes her to become a martial arts master.
+She needs to master the horse stance so that she can sit and use the toilet.
+Cue anime training arc.
+They develop huge leg muscles.
+A bunch of ass-less agents are required to fight against reality-bender. People with asses dont want to lose their asses.
+How large is his arse-nal?!
+https://www.reddit.com/r/TwoBestFriendsPlay/comments/1bt41jg/heres_a_keijo_clipgate_of_bootylon/
+
+---
+
+Ace Attorney spinoff
+Lawbert appears
+https://scp-wiki.wikidot.com/scp-7416
+
+---
+
+SCP that makes people talk cringe. Social anxiety.
+
+---
+
+> Burgers are very common place in our society and yet they are scarcely seen on the wiki. Write about more anomalous burgers!
+
+SCP is a database that contains sapient higher-dimensional entities and their corresponding burger.
+Humans are part of this multiversal species, where apples, burgers are considered food.
+Everything is a burger. Earth is a burger. Amida/Critical classification as a hook.
+Earth is currently up for an auction, but since the humongous entities that eat Earth can only communicate as quickly as light speed, the Earth would only be eaten in ~100 years.
+
+Main researcher is a flat-earther.
+
+---
+
+Chickens with guns, prequel to https://www.youtube.com/watch?v=FQMbXvn2RNI
+Chickens protest against battery farms
+Chickens learn how to fly helicopters because of their inability to fly.
+Uneasy peace brokered between the chickens and the Foundation.
+Bok bok bock! -> Glock glock glock!
+
+---
+
+
+Something that lets you choose when you die.
+
+
+---
+
+Technical document describing the Foundation's legacy database migration
+
+
+---
+
+Author page is a store of various things on sale.
+
