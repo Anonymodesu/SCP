@@ -152,17 +152,12 @@ SCP that blows up bureacratic processes and makes people say corporate word sala
 
 ---
 
-Time travel romance. Chaos theory makes time travel predictions less and less reliable.
+Time travel. 
+We are living in an AI-simulated universe.
+Overseers tune parameters to observe differences in civilisation.
 
----
+Chaos theory makes time travel predictions less and less reliable.
 
-SCP that needs to be continuously rewritten to correct imperfections.
-
-It's a conceptual cat that lives in digital media. It's confined to its document. It's given images of a tree, pidgeon, mouse and a ball to play with.
-
-Cat must remain with Researcher Malloran forever.
-
-Parody of https://scp-wiki.wikidot.com/scp-3999
 
 ---
 
@@ -187,10 +182,14 @@ The reality bender prefers female-presenting buttocks.
 Her forced lifestyle changes causes her to become a martial arts master.
 She needs to master the horse stance so that she can sit and use the toilet.
 Cue anime training arc.
+Are you tired? Yes! You ain't fit enough! Keep going.
+Are you tired? No! You ain't training hard enough! Keep going.
 They develop huge leg muscles.
 A bunch of ass-less agents are required to fight against reality-bender. People with asses dont want to lose their asses.
 How large is his arse-nal?!
 https://www.reddit.com/r/TwoBestFriendsPlay/comments/1bt41jg/heres_a_keijo_clipgate_of_bootylon/
+Revealed at the end that the SCP is looking to cure obesity.
+Fat is removed from the buttocks and the body gradually redistributes fat from other parts of the body, observed from gradual recovery from affected individuals.
 
 ---
 
@@ -215,11 +214,136 @@ Main researcher is a flat-earther.
 
 ---
 
-Chickens with guns, prequel to https://www.youtube.com/watch?v=FQMbXvn2RNI
-Chickens protest against battery farms
-Chickens learn how to fly helicopters because of their inability to fly.
-Uneasy peace brokered between the chickens and the Foundation.
+SCP is humanoid that can see spectral demons.
+Expectations subverted where they are used to keep safe yokai from running amok.
+Lowkey crime investigation.
+
+---
+https://commons.wikimedia.org/wiki/File:Rooster_Face_(Unsplash).jpg
+MC is demoted to work with WWS, frustrated at the Foundation.
+Chicken escapes farm cleverly, and found to be sapient.
+Wilson Wildlife article, introducing MC and his partner chicken. Chicken likes to lift weights, obeys strict schedule.
 Bok bok bock! -> Glock glock glock!
+MC gets held at gunpoint by his own Glock, and the chicken kidnaps him.
+WWS asks the Foundation for help to rescue the MC.
+
+SCP Foundation article, introduces the Chicken Insurgency, as a splinter group of the Secure Chicken's Protectorate (S🐔P is used to refer to the protectorate in the document to distinguish it from the SCP Foundation).
+Their logo is https://en.wikipedia.org/wiki/Peace_symbols.
+S🐔P owns poultry farms. SCP to buy up as much stock as possible to have a controlling interest.
+SCP-XXXX are chickens that have gained sapience. The protectorate is composed of XXXX instances that want to keep normal chickens in captivity, and donates to the Foundation.
+MC is designated as XXXX-A as the sole human member of the Chicken Insurgency. His tracker enables limited audio feed, but Foundation chooses not to recapture him to learn more about the chickens.
+
+MC is forced to watch documentaries about chickens being mistreated.
+MC gradually learns how to talk chicken.
+
+Go back? Hahahaha no. I'll be the laughingstock if they hear I was held captive by some fucking chicken.
+
+S🐔P is into eugenics, wants to keep more intelligent chickens around. Hinted that S🐔P is being scammed; chickens are being kept in very adverse conditions for a very small profit.
+Captured Chicken Insurgency chickens -> caged.
+Normal chickens are used to make eggs to generate income -> cage-free.
+Protectorate families -> free-range.
+
+AICs fail to transcribe Insurgency meeting. Completely composed of bock bock bock. [122 minutes of footage omitted.]
+Hard to identify which chickens are anomalies, so finding an appropriate sample size of speech is difficult.
+Meeting recording is sent to S🐔P. S🐔P thanks them with an 'appreciation token' of a carton of eggs. Indicates that an airbase will be attacked.
+Retrieving the MC is high priority due to his ability to understand Chicken.
+
+Chicken and MC successfully infiltrate the original farm, and rescues captive chickens.
+Chicken poop formation used to blow up a septic tank.
+Chicken wants to rescue cows as well, but there's no time. 
+
+
+
+<MC and chicken partner rescues a bunch of chickens from a farm>
+I already helped you rescue your friends-
+Bock bock bock!
+Fine, our friends. I've helped rescue them. What more do you want?!
+Bock bock bock.
+I swear, one of these days you're going to get us killed.
+But today is not that day!
+<humvee speeds off into the distance>
+
+Chickens are nomadic, so their meeting spots are hard to pin down.
+
+Different breed chickens have different dialects.
+Sorry, can you slow down? I still have trouble with the Southern dialect.
+Chock. Chock. Chock.
+
+MC visits chicken hospital. Chickens are recovering from drugs and forced birth.
+BgCock! BgCock!
+Big rooster comes out, delivers grand speech to take helicopters because of their inability to fly.
+Chickens claim he is heninist. (Feminist)
+Lieutenant Fowley.
+Jock jock jock!
+Yes, he's quite the handsome fellow.
+
+GOC article:
+Chickens are not powerful individually, but they can reproduce (30-700 lifetime) in greater numbers than humans.
+Foundation requests the GOC for assistance to defend a military base.
+GOC representative at military base gets tip-off of a mass chicken migration. Do chickens migrate? He chats with a civilian officer liaison.
+I swear the execs are overreacting. They always act like they have sticks up their asses.
+You're being paid twenty grand a year to stare at a computer. You could be doing a lot worse. 
+
+MC is captured, but he is just a distraction. 'Dont be such a chicken'
+Chickens jump from a cliff using wing formation.
+AA guns and heat-seeking missiles cant hit them. Too small and too many of them!
+Ear-splitting anti-air shells designed for taking down B-22 bombers rain upon the sky. But ear-splitting was all they were. Just like how chickens were never designed for flight, these shells were never intended for hitting chickens.
+Dozens of shells per volley, costing US taxpayers five hundred grand per volley.
+
+Chickens have lost balance.
+I said, WE NEED TO HURRY UP BEFORE THE GOC GETS HERE? WHAT'S WRONG WITH YOUR EARS?
+Huh? Fuck thats right. Those shells were pretty loud.
+We'll see what the medics can do during R&R.
+Oh you guys naturally recover hearing? You learn something new every day.
+
+Clock clock clock!
+They are running out of time before GoC gets there.
+
+
+That's impossible! H-how are they so strong?
+Heh. Joe scoffs. You guys fight for a salary. Those guys are fighting for the survival of chickens.
+
+Chickens don bullet-proof vests, but are weak to incendiary rounds.
+
+Block block block
+MC: Eggshell formation?! No! Not like this!
+Chickens form a shield around MC, protecting him from thaumaturgic heat blast. Effective shock absorption from a wall of feathers and flesh. Fearless fluffy corpses cushion the blow.
+Fireballs of flaming fowl.
+Corpses of belligerents, both man and fowl, lay littered on the ground. Saliva pools on the base of Sampson's mouth as the fragrance of thaumaturgically fried chicken wafts throughout the hangar.
+Sampson swallows. "All clear."
+
+Build up of lots of Bkhawks to:
+A cluster of chickens explode into a ball of flame.
+Get to the chopper!
+Chickens freeze in their tracks.
+Ah shit sorry, I forget that was a trigger word.
+Come on let's go, let's go! Move it!
+B-bkhawk bkhawk!
+B-bkhawk bkhawk!
+
+<runs towards to the black hawk helicopter.>
+
+
+
+
+
+Book book book!
+Dock dock dock
+Chuck chuck chuck grenade
+Dork dork dork
+
+
+Fuck, you remember how I said one of these days you're going to get us killed?
+Bock bock bock!
+Today might be that day.
+<WARNING. HEAT-SEEKING MISSILE INBOUND.>
+Fock fock fock!
+...did you just say fu-
+<BOOM!>
+
+Chicken GOI format. Uses this font, limited translation https://en.wikipedia.org/wiki/Dingbat#Ornamental_Dingbats_Unicode_block
+Casualty report: 4600 chickens (estimated), 23 humans
+We will assist our allies. https://www.youtube.com/watch?v=FQMbXvn2RNI
 
 ---
 
@@ -229,10 +353,63 @@ Something that lets you choose when you die.
 
 ---
 
+Super advanced AI treats prioritises humans like pets.
+Actions are focus on increasing metrics for humans' happiness, based on dopamine levels, endorphins.
+Different AIs have different approaches to increasing happiness.
+Purely utilitarian perspective.
+
+---
+
 Technical document describing the Foundation's legacy database migration
+
+---
+
+Tales of Phantasia-inspired Fading Stars SCP.
+
+Demon is wreaking havoc. Only magic can harm it.
+Over use of magic is killing the planet.
+
+---
+
+Fish raised to the power of 12. Weird Wilsons Wildlife maths paper.
+
+Use 🐟 as a symbol. Raise 🐟 to the power of 🐟.
+
+---
+
+Two parallel rows of potatoes used as a railgun.
+
+---
+
+
+Tale about classes of goobers ala smogon competitive classes
+
+uber, over, under, never
 
 
 ---
 
 Author page is a store of various things on sale.
+Badly drawn paint art.
+Brochure at the end with articles more clearly spelt out. Prices are reading time.
 
+---
+
+Rising tide (title of story) lifts all boats.
+Prisoner's dilemma/tragedy of the commons. 
+
+---
+
+Euclid -> Explained SCP. (Explained since the Moon's core contains extremely rigid material. https://en.wikipedia.org/wiki/Roche_limit)
+https://scp-wiki.wikidot.com/scp-8630 is thrown at the moon, and instantly teleports the moon and the Earth next to each other.
+Moon gradually rolls around the Earth, leaving a wave of destruction.
+Lots of tsunamis.
+One side of Earth does not have sunlight.
+Angular momentum retained, moon gradually slows down, and Earth gradually slows down.
+Moon dust is somewhat toxic, and degrades equipment.
+SCP-8064 grows a massive tumour.
+SCP-4043 ceases manifestation.
+Gradually evolving map of the world as tsunamis and landmasses change.
+Alien life living within the Moon has detected that the Moon has 
+Inertia slows down Earth days.
+Assume Roche limit doesnt exist.
