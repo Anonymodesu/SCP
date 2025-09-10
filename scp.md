@@ -146,8 +146,8 @@ Protect: Interrogate rival organisations
 
 ---
 
-
-SCP that blows up bureacratic processes and makes people say corporate word salad
+SCP is a group of humans (agile coaches) that spread various agile development strategies and bog down the Foundation.
+It gradually blows up bureacratic processes and makes people say corporate word salad.
 /Strangler fig? to progressively eliminate the bureacracy.
 
 ---
@@ -203,28 +203,18 @@ SCP that makes people talk cringe. Social anxiety.
 
 ---
 
-> Burgers are very common place in our society and yet they are scarcely seen on the wiki. Write about more anomalous burgers!
-
-SCP is a database that contains sapient higher-dimensional entities and their corresponding burger.
-Humans are part of this multiversal species, where apples, burgers are considered food.
-Everything is a burger. Earth is a burger. Amida/Critical classification as a hook.
-Earth is currently up for an auction, but since the humongous entities that eat Earth can only communicate as quickly as light speed, the Earth would only be eaten in ~100 years.
-
-Main researcher is a flat-earther.
-
----
-
 SCP is humanoid that can see spectral demons.
 Expectations subverted where they are used to keep safe yokai from running amok.
 Lowkey crime investigation.
 
 ---
 https://commons.wikimedia.org/wiki/File:Rooster_Face_(Unsplash).jpg
-MC is demoted to work with WWS, frustrated at the Foundation.
+MC is demoted to work with WWS, frustrated at the Foundation. He is too sympathetic to anomalies.
 Chicken escapes farm cleverly, and found to be sapient.
 Wilson Wildlife article, introducing MC and his partner chicken. Chicken likes to lift weights, obeys strict schedule.
 Bok bok bock! -> Glock glock glock!
 MC gets held at gunpoint by his own Glock, and the chicken kidnaps him.
+Lock lock lock! Owner unlocks the door for him.
 WWS asks the Foundation for help to rescue the MC.
 
 SCP Foundation article, introduces the Chicken Insurgency, as a splinter group of the Secure Chicken's Protectorate (S🐔P is used to refer to the protectorate in the document to distinguish it from the SCP Foundation).
@@ -297,7 +287,7 @@ We'll see what the medics can do during R&R.
 Oh you guys naturally recover hearing? You learn something new every day.
 
 Clock clock clock!
-They are running out of time before GoC gets there.
+They are running out of time before S🐔P reinforcemnents get there.
 
 
 That's impossible! H-how are they so strong?
@@ -308,9 +298,9 @@ Chickens don bullet-proof vests, but are weak to incendiary rounds.
 Block block block
 MC: Eggshell formation?! No! Not like this!
 Chickens form a shield around MC, protecting him from thaumaturgic heat blast. Effective shock absorption from a wall of feathers and flesh. Fearless fluffy corpses cushion the blow.
-Fireballs of flaming fowl.
-Corpses of belligerents, both man and fowl, lay littered on the ground. Saliva pools on the base of Sampson's mouth as the fragrance of thaumaturgically fried chicken wafts throughout the hangar.
-Sampson swallows. "All clear."
+The ignition triggers. Erupting a fireball of flaming fowl.
+Corpses of belligerents, both man and fowl, lay littered on the ground. Saliva pools on the base of Sampson's mouth as the fragrance of thaumaturgically fried chicken wafts throughout the hangar. Permeates
+Sampson swallows. "All clear." He resolves to ignore the permeating scent and his festering temptation to desert his position and grab KFC.
 
 Build up of lots of Bkhawks to:
 A cluster of chickens explode into a ball of flame.
@@ -400,16 +390,27 @@ Prisoner's dilemma/tragedy of the commons.
 
 ---
 
+This was originally intended to be an entry for ClassicCon, but then procrastination happened. Now here we are.
+
+
+Maybe change the cause of SCP-8630 to a meteor hitting the moon and causing it to spiral towards the Earth.
 Euclid -> Explained SCP. (Explained since the Moon's core contains extremely rigid material. https://en.wikipedia.org/wiki/Roche_limit)
 https://scp-wiki.wikidot.com/scp-8630 is thrown at the moon, and instantly teleports the moon and the Earth next to each other.
+Person who through the dart at the moon is facing discplinary action, but it's getting postponed.
 Moon gradually rolls around the Earth, leaving a wave of destruction.
 Lots of tsunamis.
 One side of Earth does not have sunlight.
 Angular momentum retained, moon gradually slows down, and Earth gradually slows down.
 Moon dust is somewhat toxic, and degrades equipment.
+Undersea Internet cables have been crushed.
 SCP-8064 grows a massive tumour.
 SCP-4043 ceases manifestation.
+Satellite orbits decay around the weird gravitational field.
 Gradually evolving map of the world as tsunamis and landmasses change.
-Alien life living within the Moon has detected that the Moon has 
+Cooperate with remaining functional governments to develop measures against regolith, communicate its next trajectory.
 Inertia slows down Earth days.
-Assume Roche limit doesnt exist.
+It is now oscillating between two points.
+Strikethrough sentences indicating past more hopeful recovery methods. Now more desperate.
+
+---
+
