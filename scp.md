@@ -229,9 +229,10 @@ MC gradually learns how to talk chicken.
 Go back? Hahahaha no. I'll be the laughingstock if they hear I was held captive by some fucking chicken.
 
 S🐔P is into eugenics, wants to keep more intelligent chickens around. Hinted that S🐔P is being scammed; chickens are being kept in very adverse conditions for a very small profit.
-Captured Chicken Insurgency chickens -> caged.
-Normal chickens are used to make eggs to generate income -> cage-free.
-Protectorate families -> free-range.
+Protectorate families -> free-range. Ethical housing
+Normal chickens are used to make eggs to generate income -> cage-free. Ethical drugs
+Captured Chicken Insurgency chickens -> caged. Ethically torture the chickens.
+
 
 AICs fail to transcribe Insurgency meeting. Completely composed of bock bock bock. [122 minutes of footage omitted.]
 Hard to identify which chickens are anomalies, so finding an appropriate sample size of speech is difficult.
@@ -239,7 +240,7 @@ Meeting recording is sent to S🐔P. S🐔P thanks them with an 'appreciation to
 Retrieving the MC is high priority due to his ability to understand Chicken.
 
 Chicken and MC successfully infiltrate the original farm, and rescues captive chickens.
-Chicken poop formation used to blow up a septic tank.
+MC poses as a WWC employee, claiming to be looking for SCP-XXXX instances, and releases the chickens.
 Chicken wants to rescue cows as well, but there's no time. 
 
 
@@ -387,30 +388,4 @@ Brochure at the end with articles more clearly spelt out. Prices are reading tim
 
 Rising tide (title of story) lifts all boats.
 Prisoner's dilemma/tragedy of the commons. 
-
----
-
-This was originally intended to be an entry for ClassicCon, but then procrastination happened. Now here we are.
-
-
-Maybe change the cause of SCP-8630 to a meteor hitting the moon and causing it to spiral towards the Earth.
-Euclid -> Explained SCP. (Explained since the Moon's core contains extremely rigid material. https://en.wikipedia.org/wiki/Roche_limit)
-https://scp-wiki.wikidot.com/scp-8630 is thrown at the moon, and instantly teleports the moon and the Earth next to each other.
-Person who through the dart at the moon is facing discplinary action, but it's getting postponed.
-Moon gradually rolls around the Earth, leaving a wave of destruction.
-Lots of tsunamis.
-One side of Earth does not have sunlight.
-Angular momentum retained, moon gradually slows down, and Earth gradually slows down.
-Moon dust is somewhat toxic, and degrades equipment.
-Undersea Internet cables have been crushed.
-SCP-8064 grows a massive tumour.
-SCP-4043 ceases manifestation.
-Satellite orbits decay around the weird gravitational field.
-Gradually evolving map of the world as tsunamis and landmasses change.
-Cooperate with remaining functional governments to develop measures against regolith, communicate its next trajectory.
-Inertia slows down Earth days.
-It is now oscillating between two points.
-Strikethrough sentences indicating past more hopeful recovery methods. Now more desperate.
-
----
 
