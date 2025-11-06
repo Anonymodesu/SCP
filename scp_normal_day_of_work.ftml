@@ -1,0 +1,329 @@
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[include component:image-block | name=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Angus_Ridgway_Profile_Picture.jpg/640px-Angus_Ridgway_Profile_Picture.jpg | caption=SCP-9000 instance. ]]
+
+**Item #:** SCP-9000
+
+**Object Class:** Keter
+
+**Special Containment Procedures:** The public-facing business decisions of the consulting company, Talanpir Technologies Ltd., are to be monitored via web-scraping of news outlets and attendance to their quarterly general meetings. Notable business decisions include, but are not limited to, partnerships with other companies, investments to fund startups, and the construction of new Talanpir offices. 
+
+The private business decisions of Talanpir are to be monitored by Foundation agents posing as Talanpir employees. Agents assigned at a Talanpir office must possess a CRV (Cognitive Resistance Value) of at least 31.00, and pass a psychological exam once a fortnight. Monitored Talanpir offices must be assigned no less than three (3) agents at a time [[footnote]]If one needs to take sick leave, others are encouraged to follow suit.[[/footnote]]. While working at such offices, agents should aim to stay within proximity of each other, and consistently remind each other of the Foundation's mission. Agents are to be reassigned elsewhere when they fail their psychological exam or four (4) months elapse, whichever occurs first. Debriefed agents are to be administered Class C amnestics targeting their tenure in Talanpir.
+
+The gathered information shall be used to launch smear campaigns to discredit Talanpir, bolster their business competitors, or otherwise inhibit Talanpir's socioeconomic influence, with the ultimate goal being its eventual dissolution. Via Protocol Black Sampson, the Foundation may force the liquidation of Talanpir as a last resort[[footnote]]Talanpir is entrenched in critical services supporting the welfare of several countries, and its abrupt disappearance would likely lead to a global recession.[[/footnote]].
+
+Recruitment screenings of new Foundation personnel must include a thorough background check for any Talanpir work history. A retroactive screening of current personnel is underway.
+
+**Description:** SCP-9000 refers to a collection of humanoids employed by Talanpir Technologies [[footnote]]Foundation analysts estimate that SCP-9000 comprises 22-25% of Talanpir's workforce.[[/footnote]]. SCP-9000 instances have resolute faith in Talanpir, expousing their company's ethos to their immediate colleagues. Prolonged exposure may cause affected individuals to become new instances of SCP-9000. Empirically, individuals with low CRV or those in managerial positions are more subsceptible to SCP-9000.
+
+The Talanpir ethos adapts to reflect the cultural values of its client organisations, and to a lesser extent, society at large. For example, the company slogan has changed from "World Wide Wealth" prior to the dot-com crash, to "Equality for all" at the height of the MeToo movement, to "Unblock your Blockhain" after the inception of Bitcoin, and to "All lives matter" following President Trump's inauguration. Regardless of evolving mores, a common sales pitch used by their consultants is to improve the working efficiency of their clients. Work inventories leaked by Foundation agents indicate mixed results.
+
+SCP-9000-0 is the former designation of Marina Farleigh, currently employed as a researcher at Site-37.
+
+
+[[include component:image-block | name=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Office_building%2C_on_Whiteladies_Road_-_geograph.org.uk_-_2281190.jpg/640px-Office_building%2C_on_Whiteladies_Road_-_geograph.org.uk_-_2281190.jpg | caption=Site 37's public-facing office. Subterranean complex not shown. ]]
+
+**Discovery:** The Foundation made first contact with SCP-9000 at Site-37, California. Site-37 doubles as the office of a front organisation, Solving Computer Problems, offering IT support services to the general population.
+
+[[div class="blockquote"]]
+**13/09/2024 - Site-37 Reception**
+
+**Blakes:** It's just an old hard drive. A defrag should be enough.
+ 
+//Clack clack clack.//
+
+**Farleigh**: Bah. Boring.
+
+**Blakes:** While the defrag runs, let's continue?
+
+**Farleigh**: //Sigh//. Alright, next up is one Mr. Thompson's Lenovo Thinkpad. What do you think?
+
+//Blakes hooks Thompson's laptop into his terminal.//
+
+**Blakes**: Corrupted hard drive, and some adware popups.
+
+//Clack clack clack.//
+
+**Blakes**: Seems simple enough. I'll run a decryption and hash signature scan?
+
+**Farleigh**: Very good.
+
+//Clack clack clack.//
+
+**Blakes**: It's a trojan.
+
+**Farleigh:** Oh?
+
+**Blakes**: Signature XXK-112. Mundane.
+
+**Farleigh**: Haven't seen one of those in a while. I wonder how this guy got his computer infected.
+
+//Clack clack clack.//
+
+**Farleigh**: We'll need to scrape the checksums of each-
+
+//Lambert enters through the front door.//
+
+**Farleigh:** Woah, look who's back.
+
+**Blakes:** Johnston!
+
+**Lambert**: Hey kids, miss me?
+
+**Blakes:** How were the tech conferences?
+
+**Lambert:** I know how we like to shit on them, but this year's actually pretty interesting. There's this one startup at TechCrunch that was building a-
+
+**Blakes:** That's not really what I meant.
+
+**Lambert:** Yes, yes, I know. //Looks over his shoulder.// But this ain't really the place to discuss it.
+
+**Blakes:** Do you wanna head into the back or?
+
+**Lambert:** I'll loop you in later. But we've got perf reviews to get through. You first, Marina.
+
+**Farleigh:** Fuck. Forgot that was today.
+
+**Lambert:** Not surprised.
+
+**Farleigh:** //Turns to Blakes.// You good to hold the fort?
+
+**Blakes:** Yeah, yeah. Break a leg Marina.
+
+//Lambert and Farleigh leave the reception. Blakes continues working through the backlog.//
+
+**Blakes:** Let's see...
+
+//Clack clack.// 
+
+**Blakes:** Defragmentation's almost done.
+
+//Clack clack clack.//
+
+**Blakes:** Now what should I do about that XXK? Marina said something about checksums...
+
+//A customer enters through the front door.//
+
+**Blakes:** Uh, hi! What can I do for you?
+
+**Customer:** Hey, it's this monitor. It keeps flashing whenever I try to start a game. Not sure if it's the monitor or the cable...
+
+----
+
+**13/09/2024 - Site-37 Technician's Laboratory**
+
+//Farleigh and Lambert enter Farleigh's cubicle.//
+
+**Farleigh:** Sorry boss man. It's a bit of a mess.
+
+**Lambert:** Jeez, I was only gone two weeks.
+
+//Farleigh starts clearing her desk.//
+
+**Farleigh:** Right, did you find anything? At those conferences?
+
+**Lambert:** No, nothing stood out as anomalous. I had the agents do a full sweep with Hume counters too. Any news from your end?
+
+**Farleigh:** We've got more customers so our backlog's been 
+growing a bit. Otherwise, business as usual.
+
+**Lambert:** Give me some numbers.
+
+**Farleigh:** Right.
+
+//Farleigh taps her computer keyboard and logs in to her terminal.//
+
+**Farleigh:** //Clack clack clack.// So this quarter, we've had 1,451 civvies bring in 1,501 devices. Out of those, 989 have been classified as mundane, and 9 as anomalous. And out of the 9, 7 have been studied enough to be provided appropriate conprocs.
+
+**Lambert:** Hey, that's not bad.
+
+//Lambert borrows a chair from a neighbouring cubicle. He navigates the chair through an obstacle course of litter before he seats himself.//
+
+**Lambert:** I might need to contract some WHS officers to look after the place next time haha.
+
+//Farleigh lightly punches Lambert in the shoulder.//
+
+**Farleigh:** Weren't you the one saying we need to cut down our operating costs?
+
+**Lambert:** Yes, about that. 
+
+//Lambert straightens the part of his shirt ruffled by her punch.//
+
+**Lambert:** So, you've been here a few months. How do you feel about where you're headed? About where the site's headed?
+
+**Farleigh:** Uhh. I feel pretty good. I've gotten the hang of debugging mundane hardware.
+
+//Farleigh pulls out a Class III Memetic Adapter and connects it to a port on her workstation.//
+
+**Farleigh:**  But anomalous electronics is where most of the exciting stuff happens. Lemme show you.
+
+//Farleigh unlocks her containment cabinet and takes out another keyboard.//
+
+**Farleigh:** We got this malware the other day.
+
+**Lambert:** Malware? It's a virus infecting a keyboard?
+
+**Farleigh:** Oh yeah, I haven't figured out if the anomaly is the keyboard or its software yet. So I called it Halware. Like hardware plus malware. 
+
+**Lambert:** What did I tell you about giving anomalies names?
+
+//Farleigh opens SCP Docs in her terminal, and connects the keyboard into the adapter.//
+ 
+**Farleigh:** Or Hal for short, from that old movie.
+
+**Lambert:** Space Odyssey?
+
+**Farleigh:** Yeah, that's the one.
+
+//The keyboard begins independently depressing its keys, forming text in SCP Docs.//
+
+**Hal**: {{**hrrrgn who dares disturb me from slumber**}}
+
+**Farleigh:** Check it out! It's got a mind of its own.
+
+**Lambert:** Huh.
+
+**Farleigh:** You don't sound impressed.
+
+**Lambert:** I've been working here for close to 10 years. It's not the first time I've seen a sentient keyboard.
+
+**Hal**: {{**is it you marina**}}
+
+**Lambert:** You...//sigh//...gave it your name?
+
+**Farleigh:** I uhh. I mean. I have conversations with it when I'm not front-desking. For research.
+
+**Lambert:** It's against site policy.
+
+**Farleigh:** Hey, gimme some credit here. At least I've put memetic locks on Hal to isolate it from the Foundation network.
+
+**Lambert:** I shouldn't be congratulating you for doing the bare bloody minimum Marina. Especially when it comes to your performance review.
+
+**Farleigh:** Johnston I- 
+
+//Farleigh stands, and after a moment, sits back down.//
+
+**Farleigh:** I'm sorry.
+
+**Lambert:** Look, you do good work Marina. You've got some of the highest anomaly classification metrics in the site. But that doesn't preclude you from our rules.
+
+**Hal**: {{**let me out**}}
+
+**Lambert:** Some of the newer guys look up to you, you know. Your habits might rub off on them.
+
+**Farleigh:** Ha. For better or worse.
+
+**Lambert:** So I've taken the liberty to invite some consultants to audit this place.
+
+//Lambert's eyes sweep Farleigh's cubicle.//
+
+**Lambert:** Enfore some structure, tidy things up. 
+
+**Farleigh:** Consultants? Like from another site?
+
+**Lambert:** No, externally. You've heard of Talanpir?
+
+//Farleigh bristles.//
+
+**Farleigh:** Ho-how long have you been talking with them?
+
+**Lambert:** I've been talking to them for a few weeks now. They're the ones who invited me to some of those conferences haha.
+
+**Farleigh:** Oh no...
+
+**Hal**: {{**ouuuuuttt**}}
+
+----
+
+**13/09/2024 - Site-37 Reception**
+
+//Blakes is working away, mumbling a tune. He is visibly sweating.//
+
+**Blakes:** There's a fire~ starting in my heart. Reaching~ a fever pitch and it's bringing me this close to throwing this laptop if this XXK doesn't-
+
+//A customer enters the reception.//
+
+**SCP-9000-13:**[[footnote]]Thompson's anomalous status was not known at the time.[[/footnote]] Adele, huh? Big fan.
+
+**Blakes:** Oh. 
+
+//Blakes wipes his brow and takes a deep breath.//
+
+**Blakes:** Mr. Thompson right? Sorry, still working on your laptop. It's not quite ready-
+
+**SCP-9000-13:** Ah, that's quite alright. I'm actually here for Johnston. Johnston Lambert. Is he around?
+
+[[/div]]
+
+
+
+**Addendum:** [Optional additional paragraphs]
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-XXXX]]] | SCP-XXXX | [[[SCP-XXXX]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-wiki:component:license-box]]
+[!-- Do not leave the licensebox empty if your article features an image. --]
+[[include :scp-wiki:component:license-box-end]]
+
+Solving Computer Problems detects anomalous buggy electronic software. Too many anomalous candidates, so Marina's manager calls in Talanpir. They avoid expanding too much to avoid attention, while maintaining a good reputation.
+
+Employees notice manager getting weird (he's been meeting with SCP-9000)
+
+First interview is cat pranking the MC by faking death.
+
+Blocked by agile processes that get progressively more complex.
+
+Another SCP (Lapintar) appears, which is a group of humans (agile coaches) that spread various agile development strategies and bog down the Foundation.
+* It gradually blows up bureacratic processes and makes people say corporate word salad.
+    * Edge-computing, cloud native etc.
+* Keystroke logger that bogs down the terminal (has to wait for 1s per keystroke). Writes a script that spits out profanity `FUCKTHISSHIT`. Script is obfuscated to bypass code-scanning tools.
+* Security programs that take up all of the laptop's memory, reducing the cat's computation power.
+* Timesheeting. Gradually becomes more finegrained - log time to log time.
+* Employee performance measured by number of anomalies identified, and contained
+    * One-size-fits-all overkill containment measures adopted by SCP-9000
+    * Employees a keyboard into multiple anomalies to keep their metrics up.
+    * Employees deliberately start containment breaches to cause their metrics to go up. 
+* Permanent on-call; MC is faulted because he was taking a shit and couldnt respond to the on-call
+* Mandatory training programs
+    * https://www.youtube.com/watch?v=AQeGBHxIyHw
+* Swag T-shirt
+* Work from home gradually becomes live in the office (permanently).
+* Incentives to work overtime - fake work/life balance.
+* Random meetings
+    * First, standard sprint ceremonies
+        * Leave customers confused - leaves more time spent on the app
+        * We have an app? https://www.youtube.com/watch?v=sI1SLHEC98I
+    * Second, meetings about future meeting agenda (Agenda: meetings)
+    * Third, meetings about how to optimise meetings
+* Day in the life of- videos
+* Testing test cases (recursively...)
+* Documentation about documentation (recursively...)
+* MC tries to submit a site transfer, but it's blocked
+    * Network communication to other site -> blocked
+    * Personal message to other site -> blocked
+* Grievous medical injury requires filling out an incident report first.
+
+
+Human is incarcerated somewhere. Cat escapes containment to rescue him. His escape is discovered when a Lapantir goes to check in on it.
+
+
+MC wins by hacking the system with the virus. Submits lots of commits/tickets/PRs etc. Virus creates bugs for the MC to fix.
+MC is resistant to the agile coaching because he used to work for Lapantir.
+MC infects herself with Covid so that she can socially distance herself from them.
+
+She's just a girl. What did you expect?
+
+SCP-9000-0 is leading the research to construct reliable methods to identify and neutralise SCP-9000 instances such that they revert to their former selves.
+
+Director gives a speech similar to Incredibles' Insuricare, where a company is like a body. Cells that dont follow orders need to be neutered. MC doesnt fall in line with the rest, so she must be terminated.
+
+Ends with a hint noting that Talanpir knows SCP is a threat and intends to bring it down.
+Employee transfers to other companies have occurred.

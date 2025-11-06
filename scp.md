@@ -146,12 +146,6 @@ Protect: Interrogate rival organisations
 
 ---
 
-SCP is a group of humans (agile coaches) that spread various agile development strategies and bog down the Foundation.
-It gradually blows up bureacratic processes and makes people say corporate word salad.
-/Strangler fig? to progressively eliminate the bureacracy.
-
----
-
 Time travel. 
 We are living in an AI-simulated universe.
 Overseers tune parameters to observe differences in civilisation.
@@ -233,6 +227,7 @@ Protectorate families -> free-range. Ethical housing
 Normal chickens are used to make eggs to generate income -> cage-free. Ethical drugs
 Captured Chicken Insurgency chickens -> caged. Ethically torture the chickens.
 
+Male chickens are like pimps.
 
 AICs fail to transcribe Insurgency meeting. Completely composed of bock bock bock. [122 minutes of footage omitted.]
 Hard to identify which chickens are anomalies, so finding an appropriate sample size of speech is difficult.
@@ -287,9 +282,11 @@ Huh? Fuck thats right. Those shells were pretty loud.
 We'll see what the medics can do during R&R.
 Oh you guys naturally recover hearing? You learn something new every day.
 
-Clock clock clock!
+B-kock b-kock!
+Cluck cluck cluck!
 They are running out of time before S🐔P reinforcemnents get there.
-
+Clock clock clock!
+B-clock b-clock!
 
 That's impossible! H-how are they so strong?
 Heh. Joe scoffs. You guys fight for a salary. Those guys are fighting for the survival of chickens.
@@ -352,6 +349,20 @@ Purely utilitarian perspective.
 ---
 
 Technical document describing the Foundation's legacy database migration
+
+---
+
+SCP swaps listening, speaking, writing and reading skills with someone else.
+https://www.youtube.com/watch?v=xzJGvtVLuv4
+Containment involves navigating a labyrinth, which periodically swaps people's language proficiencies. They need to work together to escape.
+
+One containment event involves a chicken. Some guy's language switches to bocking.
+
+---
+
+SCP that stops consumption of food through the oesophagus.
+
+People instead need to shove food and water through their ass into their intestines.
 
 ---
 
