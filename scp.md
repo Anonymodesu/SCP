@@ -227,7 +227,7 @@ Protectorate families -> free-range. Ethical housing
 Normal chickens are used to make eggs to generate income -> cage-free. Ethical drugs
 Captured Chicken Insurgency chickens -> caged. Ethically torture the chickens.
 
-Male chickens are like pimps.
+Chickens use Microsoft Flight Simulator to prepare for helicopter flights.
 
 AICs fail to transcribe Insurgency meeting. Completely composed of bock bock bock. [122 minutes of footage omitted.]
 Hard to identify which chickens are anomalies, so finding an appropriate sample size of speech is difficult.
@@ -299,6 +299,7 @@ Chickens form a shield around MC, protecting him from thaumaturgic heat blast. E
 The ignition triggers. Erupting a fireball of flaming fowl.
 Corpses of belligerents, both man and fowl, lay littered on the ground. Saliva pools on the base of Sampson's mouth as the fragrance of thaumaturgically fried chicken wafts throughout the hangar. Permeates
 Sampson swallows. "All clear." He resolves to ignore the permeating scent and his festering temptation to desert his position and grab KFC.
+[1] Sampson is reprimanded to avoid making subjective remarks in his field report.
 
 Build up of lots of Bkhawks to:
 A cluster of chickens explode into a ball of flame.
@@ -326,12 +327,15 @@ Bock bock bock!
 Today might be that day.
 <WARNING. HEAT-SEEKING MISSILE INBOUND.>
 Fock fock fock!
-...did you just say fu-
-<BOOM!>
+...did you just say-
+AN/TWQ-1 Boeing/Shorts Starstreak Avenger AA Missile: BOOOOOOOOM.
 
 Chicken GOI format. Uses this font, limited translation https://en.wikipedia.org/wiki/Dingbat#Ornamental_Dingbats_Unicode_block
 Casualty report: 4600 chickens (estimated), 23 humans
 We will assist our allies. https://www.youtube.com/watch?v=FQMbXvn2RNI
+
+OR, intercepted chicken message. Only translated words are obvious puns in preceding articles.
+Ends with bovine brethren.
 
 ---
 
@@ -400,3 +404,9 @@ Brochure at the end with articles more clearly spelt out. Prices are reading tim
 Rising tide (title of story) lifts all boats.
 Prisoner's dilemma/tragedy of the commons. 
 
+---
+
+This scene, but John get electrocuted.
+https://www.youtube.com/watch?v=bhL8WlDHKaY
+T-1000 and T-850 dont know what to do with themselves.
+Slice of life.
