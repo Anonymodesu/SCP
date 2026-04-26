@@ -334,7 +334,7 @@ Chicken GOI format. Uses this font, limited translation https://en.wikipedia.org
 Casualty report: 4600 chickens (estimated), 23 humans
 We will assist our allies. https://www.youtube.com/watch?v=FQMbXvn2RNI
 
-OR, intercepted chicken message. Only translated words are obvious puns in preceding articles.
+OR, intercepted chicken message. Only translated words are the obvious puns in preceding articles.
 Ends with bovine brethren.
 
 ---
